@@ -1,1953 +1,976 @@
 {
-
-  "language": "English",
-
-  "startmenu.new_game": "NEW GAME",
-
-  "startmenu.multiplayer": "MULTIPLAYER",
-
-  "startmenu.resume_game": "RESUME GAME",
-
-  "startmenu.settings": "Settings",
-
-  "startmenu.high_score": "High Score",
-
-  "startmenu.throne_room": "Throne Room",
-
-  "startmenu.about": "About",
-
-
+  "language": "ENGLISH",
+  "startmenu.new_game": "NUEVO JUEGO",
+  "startmenu.multiplayer": "MULTIJUGADOR",
+  "startmenu.resume_game": "REANUDAR EL JUEGO",
+  "startmenu.settings": "Configuración",
+  "startmenu.high_score": "Puntaje alto",
+  "startmenu.throne_room": "Sala del Trono",
+  "startmenu.about": "Acerca de",
 
   "news.title": "POLYTOPIA NEWS",
+  "news.description": "¡Bienvenido! \n Aquí es donde compartimos las últimas noticias del universo Polytopia. ¡Estén atentos!",
+  "gamemodepicker.title": "MODO DE JUEGO",
 
-  "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
-
-  "gamemodepicker.title": "GAME MODE",
-
-
-
-  "tribepicker.title": "PICK YOUR TRIBE",
-
-  "tribepicker.categories.humantribes": "Regular Tribes",
-
-  "tribepicker.categories.specialtribes": "Special Tribes",
-
-  "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",
-
-  "tribepicker.categories.random": "Let fate decide!",
-
-  "tribepicker.categories.random.button": "RANDOM TRIBE",
-
+  "tribepicker.title": "ELIGE TU TRIBU",
+  "tribepicker.categories.humantribes": "Tribus regulares",
+  "tribepicker.categories.specialtribes": "Tribus especiales",
+  "tribepicker.categories.specialtribes.description": "Una colección de tribus que están fuera de este mundo ...",
+  "tribepicker.categories.random": "¡Que el destino decida!",
+  "tribepicker.categories.random.button": "TRIBU ALEATORIA",
   "tribepicker.categories.random.selected.title": "Alakazam!",
-
-  "tribepicker.categories.random.selected.text": "Random tribe selected",
-
-  "tribepicker.restore": "restore purchases",
-
-  "tribepicker.restoring": "restoring...",
-
-  "tribepicker.reset": "reset purchases",
-
+  "tribepicker.categories.random.selected.text": "Tribu aleatoria seleccionada",
+  "tribepicker.restore": "restaurar compras",
+  "tribepicker.restoring": "restaurando ...",
+  "tribepicker.reset": "restablecer compras",
   "tribepicker.tba": "TBA",
+  "tribepicker.underconstruction": "Sebas me la pelas",
+  "tribepicker.underconstruction.description": "Todavía estamos trabajando en inventar esta tribu. Cultivar frutas, desarrollar lenguajes y arquitectura. Eso lleva tiempo, ya sabes. Sigue a @Midjiwan en Instagram o Twitter y serás el primero en saber cuándo nuevas tribus ¡llegar!",
+  "tribepicker.freetribe": "Tribu libre",
+  "tribepicker.freetribe.description": "Esta tribu está disponible de forma gratuita y no se puede comprar para habilitar el modo multijugador en línea",
+  "tribepicker.taken": "Tomado",
+  "tribepicker.enable": "Habilitar",
+  "tribepicker.disable": "Desabilitar",
+  "tribepicker.disabled": "deshabilitado",
+  "tribepicker.disabled.description": "Tribu deshabilitada, no puede ser utilizada por usted ni por la IA",
+  "tribepicker.pick": "Elegir",
+  "tribepicker.yourname": "Tu nombre",
+  "tribepicker.anonymous": "Anónimo",
+  "tribepicker.firstplayer": "El primer jugador debe ser humano",
+  "tribepicker.pickyour": "Elige tu tribu",
+  "tribepicker.playertype": "Tipo de jugador",
+  "tribepicker.news.readmore": "Leer más ...",
+  "tribepicker.toprating": "Calificación superior {0}%",
+  "tribepicker.toprating.next": "{0}% necesario para la próxima estrella",
+  "tribepicker.topscore": "Mejor puntuación {0}",
+  "tribepicker.topscore.next": "{0} para la próxima estrella",
+  "tribepicker.players": "{0} jugadores",
+  "tribepicker.mapsize": "Tamaño del mapa: {0} mosaicos",
+  "tribepicker.gamemode": "Modo de juego: {0}",
 
-  "tribepicker.underconstruction": "Under Construction",
-
-  "tribepicker.underconstruction.description": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
-
-  "tribepicker.freetribe": "Free Tribe",
-
-  "tribepicker.freetribe.description": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
-
-  "tribepicker.taken": "Taken",
-
-  "tribepicker.enable": "ENABLE",
-
-  "tribepicker.disable": "DISABLE",
-
-  "tribepicker.disabled": "disabled",
-
-  "tribepicker.disabled.description": "Tribe disabled, it cannot be used by you or the AI.",
-
-  "tribepicker.pick": "PICK",
-
-  "tribepicker.yourname": "Your name",
-
-  "tribepicker.anonymous": "Anonymous",
-
-  "tribepicker.firstplayer": "First player must be a human",
-
-  "tribepicker.pickyour": "Pick your tribe",
-
-  "tribepicker.playertype": "Player type",
-
-  "tribepicker.news.readmore": "Read more...",
-
-  "tribepicker.toprating": "Top rating {0}%",
-
-  "tribepicker.toprating.next": "{0}% needed for next star",
-
-  "tribepicker.topscore": "Top score {0}",
-
-  "tribepicker.topscore.next": "{0} for next star",
-
-  "tribepicker.players": "{0} players",
-
-  "tribepicker.mapsize": "Map Size: {0} tiles",
-
-  "tribepicker.gamemode": "Game Mode: {0}",
-
-
-
-  "gamesettings.title": "GAME SETUP",
-
-  "gamesettings.yourname": "Your name",
-
-  "gamesettings.anonymous": "Anonymous",
-
-  "gamesettings.gamename": "Game name",
-
-  "gamesettings.game": "Game {0}",
-
-  "gamesettings.players": "Players",
-
-  "gamesettings.opponents": "Opponents",
-
-  "gamesettings.unlockmore": "Unlock more tribes to play with more opponents",
-
-  "gamesettings.notavailable": "Not Available",
-
-  "gamesettings.info.multiplayer": "{0} players, {1} tiles map",
-
-  "gamesettings.info.local": "{0} opponents, {1} tiles map",
-
-  "gamesettings.info.turnlimit30": ", 30 turn limit",
-
-  "gamesettings.info.difficulty.bonus": "Difficulty bonus: {0}%",
-
-  "gamesettings.difficulty": "Difficulty",
-
-  "gamesettings.difficulty.easy": "Easy",
-
+  "gamesettings.title": "CONFIGURACIÓN DEL JUEGO",
+  "gamesettings.yourname": "Tu nombre",
+  "gamesettings.anonymous": "Anónimo",
+  "gamesettings.gamename": "Nombre del juego",
+  "gamesettings.game": "Juego {0}",
+  "gamesettings.players": "Jugadores",
+  "gamesettings.opponents": "Oponentes",
+  "gamesettings.unlockmore": "Desbloquea más tribus para jugar con más oponentes",
+  "gamesettings.notavailable": "No disponible",
+  "gamesettings.info.multiplayer": "{0} jugadores, {1} mapa de mosaicos",
+  "gamesettings.info.local": "{0} oponentes, {1} mapa de mosaicos",
+  "gamesettings.info.turnlimit30": ", límite de 30 turnos",
+  "gamesettings.info.difficulty.bonus": "Bonificación de dificultad: {0}%",
+  "gamesettings.difficulty": "Dificultad",
+  "gamesettings.difficulty.easy": "Fácil",
   "gamesettings.difficulty.normal": "Normal",
-
-  "gamesettings.difficulty.hard": "Hard",
-
-  "gamesettings.difficulty.crazy": "Crazy",
-
-  "gamesettings.startgame": "START GAME",
-
-  "gamesettings.creatingworld": "CREATING WORLD",
-
-  "gamesettings.mode": "Game Mode",
-
-  "gamesettings.createslot": "Creating game slot...",
-
-  "gamesettings.createslot.error": "Error creating game",
-
-  "gamesettings.createslot.error.info": "Make sure you are online and try again.",
-
-  "gamesettings.size": "Map Size",
-
+  "gamesettings.difficulty.hard": "Difícil",
+  "gamesettings.difficulty.crazy": "Loco",
+  "gamesettings.startgame": "INICIAR JUEGO",
+  "gamesettings.creatingworld": "CREANDO EL MUNDO",
+  "gamesettings.mode": "Modo de juego",
+  "gamesettings.createslot": "Creando tragamonedas de juego ...",
+  "gamesettings.createslot.error": "Error al crear el juego",
+  "gamesettings.createslot.error.info": "Asegúrese de estar en línea e intente nuevamente",
+  "gamesettings.size": "Tamaño del mapa",
   "gamesettings.size.tiny": "Tiny",
-
   "gamesettings.size.normal": "Normal",
-
-  "gamesettings.size.large": "Large",
-
-  "gamesettings.size.disabled": "Not Available",
-
-  "gamesettings.network": "Network",
-
-  "gamesettings.network.online": "Online",
-
+  "gamesettings.size.large": "Grande",
+  "gamesettings.size.disabled": "No disponible",
+  "gamesettings.network": "Red",
+  "gamesettings.network.online": "En línea",
   "gamesettings.network.passplay": "Pass & Play",
+  "gamesettings.online.disabled": "Online está bloqueado",
+  "gamesettings.online.disabled.info": "Hay algunas cosas que debes arreglar para jugar en el modo multijugador en línea",
+  "gamesettings.online.info": "Juega con tus amigos en línea usando nuestro servidor multijugador",
+  "gamesettings.passplay.info": "Juega con tus amigos sin conexión en este dispositivo pasándolo",
+  "gamesettings.size.tiles": "{0} mapa de mosaicos",
+  "gamesettings.continue": "CONTINUAR",
 
-  "gamesettings.online.disabled": "Online is locked",
+  "gamemode.perfection.caps": "PERFECCIÓN",
+  "gamemode.perfection": "Perfección",
+  "gamemode.perfection.description.button": "Muestra tus habilidades en el puntaje global en el clásico juego de 30 turnos",
+  "gamemode.perfection.description": "Obtén la puntuación más alta posible antes de que se acabe el tiempo",
+  "gamemode.perfection.win": "Hemos llegado al final de los tiempos. ¡El recuerdo de tu tribu resonará en la eternidad!",
+  "gamemode.perfection.loss": "Hemos llegado al final de los tiempos",
+  "gamemode.domination.caps": "DOMINACIÓN",
+  "gamemode.domination": "Dominación",
+  "gamemode.domination.description.button": "Juega hasta que solo quede una tribu, sin límite de tiempo",
+  "gamemode.domination.description": "Elimina a todas las otras tribus de la cara de la plaza. Solo puede haber una",
+  "gamemode.domination.win": "¡Has derrotado a todas las otras tribus y unificado toda la casilla!",
+  "gamemode.domination.loss": "Tu última ciudad se perdió, has sido derrotado",
+  "gamemode.glory.caps": "GLORIA",
+  "gamemode.glory": "Gloria",
+  "gamemode.glory.description": "Primero en alcanzar {0} puntos ganados",
+  "gamemode.glory.win": "¡Se alcanzó la puntuación de {0} puntos!",
+  "gamemode.might.caps": "PODRÍA",
+  "gamemode.might": "Podría",
+  "gamemode.might.description": "Captura todas las capitales para ganar",
+  "gamemode.might.win": "Todas las capitales fueron capturadas",
+  "gamemode.death": "Tu última ciudad se perdió, has sido derrotado",
 
-  "gamesettings.online.disabled.info": "There are some things you need to fix to play online multiplayer",
-
-  "gamesettings.online.info": "Play with your friends online using our multiplayer server.",
-
-  "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",
-
-  "gamesettings.size.tiles": "{0} tiles map.",
-
-  "gamesettings.continue": "CONTINUE",
-
-
-
-  "gamemode.perfection.caps": "PERFECTION",
-
-  "gamemode.perfection": "Perfection",
-
-  "gamemode.perfection.description.button": "Show your skills on the global hiscore in the classic 30 turns game.",
-
-  "gamemode.perfection.description": "Get the highest possible score before the time runs out.",
-
-  "gamemode.perfection.win": "We have reached the end of time. The memory of your tribe will echo in eternity!",
-
-  "gamemode.perfection.loss": "We have reached the end of time.",
-
-  "gamemode.domination.caps": "DOMINATION",
-
-  "gamemode.domination": "Domination",
-
-  "gamemode.domination.description.button": "Play until there is only one tribe left, with no time limit.",
-
-  "gamemode.domination.description": "Wipe all the other tribes from the face of the square. There can be only one.",
-
-  "gamemode.domination.win": "You have defeated all the other tribes and unified the entire square!",
-
-  "gamemode.domination.loss": "Your last city was lost, you have been defeated.",
-
-  "gamemode.glory.caps": "GLORY",
-
-  "gamemode.glory": "Glory",
-
-  "gamemode.glory.description": "First to reach {0} points win",
-
-  "gamemode.glory.win": "The {0} points score was reached!",
-
-  "gamemode.might.caps": "MIGHT",
-
-  "gamemode.might": "Might",
-
-  "gamemode.might.description": "Capture all capitals to win",
-
-  "gamemode.might.win": "All capitals were captured",
-
-  "gamemode.death": "Your last city was lost, you have been defeated.",
-
-
-
-  "world.intro.title": "Mighty Leader!",
-
-  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
-
-  "world.intro.objective": "Objective: {0}",
-
-  "world.turn.end": "End Turn",
-
-  "world.turn.end.question": "End your turn?",
-
-  "world.turn.end.confirm": "Confirm",
-
-  "world.turn.next": "Next Turn",
-
-  "world.turn.finish": "Finish Game",
-
-  "world.turn.nomoves": "No more moves available, end turn",
-
+  "world.intro.title": "¡Líder poderoso!",
+  "world.intro.text": "Has sido elegido para gobernar la tribu {0}. Explora el mundo y expande tu imperio, pero ten cuidado con las otras tribus",
+  "world.intro.objective": "Objetivo: {0}",
+  "world.turn.end": "Fin del turno",
+  "world.turn.end.question": "¿Finaliza tu turno?",
+  "world.turn.end.confirm": "Confirmar",
+  "world.turn.next": "Siguiente turno",
+  "world.turn.finish": "Finalizar juego",
+  "world.turn.nomoves": "No hay más movimientos disponibles, final del turno",
   "world.turn.start": "START",
-
-  "world.turn.exit": "Exit",
-
-  "world.turn.waiting": "Waiting for {0} to play...",
-
-  "world.turn.waiting.unknown": "Waiting for an unknown tribe to play...",
-
-  "world.turn.ready": "Tap save when ready",
-
-  "world.turn.your": "Your turn",
-
-  "world.turn.remaining": "{0} turns left",
-
-  "world.turn.last": "Last turn!",
-
-  "world.turn.replaying": "Replaying...",
-
-  "world.unit.info.from": "From the city of {0}.",
-
-  "world.unit.veteran": "This unit is a veteran.",
-
-  "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
-
-  "world.unit.ability": "Unit Ability",
-
-  "world.unit.health": "Health",
-
-  "world.unit.attack": "Attack",
-
-  "world.unit.defence": "Defence",
-
-  "world.unit.movement": "Movement",
-
-  "world.unit.range": "Range",
-
+  "world.turn.exit": "Salir",
+  "world.turn.waiting": "Esperando a que {0} se reproduzca ...",
+  "world.turn.waiting.unknown": "Esperando a que juegue una tribu desconocida ...",
+  "world.turn.ready": "Pulse guardar cuando esté listo",
+  "world.turn.your": "Tu turno",
+  "world.turn.remaining": "{0} gira a la izquierda",
+  "world.turn.last": "¡Último turno!",
+  "world.turn.replaying": "Replaying ...",
+  "world.unit.info.from": "Desde la ciudad de {0}",
+  "world.unit.veteran": "Esta unidad es un veterano",
+  "world.unit.veteran.progress": "{0} / {1} para convertirse en veterano",
+  "world.unit.ability": "Capacidad de la Unidad",
+  "world.unit.health": "Salud",
+  "world.unit.attack": "Ataque",
+  "world.unit.defence": "Defensa",
+  "world.unit.movement": "Movimiento",
+  "world.unit.range": "Rango",
   "world.unit.disembark.title": "Leave {0}",
-
-  "world.unit.disembark.message": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
-
-  "world.unit.evolve": "Your unit has grown to a {0}!",
-
-  "world.unit.evolve.title": "Unit Growth",
-
-  "world.unit.dissolved": "Your unit has dissolved",
-
-  "world.building.info": "The city of {0}",
-
+  "world.unit.disembark.message": "Desembarcar esta unidad desmantelará tu {0}. ¿Deseas continuar?",
+  "world.unit.evolve": "¡Tu unidad ha crecido hasta {0}!",
+  "world.unit.evolve.title": "Crecimiento de la unidad",
+  "world.unit.dissolved": "Su unidad se ha disuelto",
+  "world.building.info": "La ciudad de {0}",
   "world.building.village": "Village",
+  "world.building.capture.ready": "Estará listo para capturar el próximo turno",
+  "world.building.capture.ready.title": "Ingresando {0}!",
+  "world.building.capture.warning": "La captura se completará el próximo turno si no los detiene",
+  "world.building.capture.warning.title": "{0} está bajo asedio!",
+  "world.attract.sanctuary": "¡Tu santuario ha atraído a un animal salvaje!",
+  "world.loading": "CARGANDO {0}%",
+  "world.suggestion.title": "¡Aquí hay un consejo!",
+  "world.suggestion.message": "Deberías {0}",
+  "world.suggestion.disable": "(Estas sugerencias se pueden desactivar en el menú)",
+  "world.ranks": "1º, 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º",
+  "world.road.connected.title": "¡Nueva ruta comercial!",
+  "world.road.connected.message": "{0} ahora está conectado a su capital!",
+  "world.tech.new.title": "¡Nueva tecnología!",
+  "world.tech.new.message": "Has descubierto el secreto de {0}",
+  "world.reward.levelup": "{0} ¡subir de nivel!",
+  "world.reward.building": "¡Ahora puedes construir {0}! Este monumento épico traerá riqueza y gloria a la ciudad más cercana",
+  "world.reward.building.title": "{0} se completó",
+  "world.meet.tribe": "Te encuentras con {0}",
+  "world.task.new": "¡Tienes una nueva tarea!",
 
-  "world.building.capture.ready": "Will be ready to capture next turn",
-
-  "world.building.capture.ready.title": "Entering {0}!",
-
-  "world.building.capture.warning": "Capturing will be completed next turn if you don't stop them.",
-
-  "world.building.capture.warning.title": "{0} is under siege!",
-
-  "world.attract.sanctuary": "Your sanctuary has attracted a wild animal!",
-
-  "world.loading": "LOADING {0}%",
-
-  "world.suggestion.title": "Here's a Tip!",
-
-  "world.suggestion.message": "You should {0}",
-
-  "world.suggestion.disable": "(These suggestions can be switched off in the menu)",
-
-  "world.ranks": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th",
-
-  "world.road.connected.title": "New trade route!",
-
-  "world.road.connected.message": "{0} is now connected to your capital!",
-
-  "world.tech.new.title": "New Tech!",
-
-  "world.tech.new.message": "You have discovered the secret of {0}",
-
-  "world.reward.levelup": "{0} level up!",
-
-  "world.reward.building": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
-
-  "world.reward.building.title": "{0} was completed",
-
-  "world.meet.tribe": "You meet {0}",
-
-  "world.task.new": "You got a new Task!",
-
-
-
-  "tribes.nature": "Nature",
-
+  "tribes.nature": "Naturaleza",
   "tribes.xin-xi": "Xin-xi",
-
-  "tribes.xin-xi.info": "They start their journey in the dense mountains, surrounded by beautiful cherry blossom.\n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.xin-xi.info": "Comienzan su viaje en las densas montañas, rodeados de hermosos cerezos en flor. \n \n {0} comienza el juego con la tecnología '{1}'",
   "tribes.imperius": "Imperius",
-
-  "tribes.imperius.info": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.imperius.info": "Enormes montañas y valles verdes. El clima {0} es perfecto para el cultivo de fruta. \n \n {0} comienza el juego con la tecnología '{1}'",
   "tribes.bardur": "Bardur",
-
-  "tribes.bardur.info": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.bardur.info": "Sobrevivir al duro invierno eterno de los {0} bosques no es una tarea fácil, pero {0} parece prosperar aquí. \n \n {0} comienza el juego con el '{1}'tecnología",
   "tribes.oumaji": "Oumaji",
-
-  "tribes.oumaji.info": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.oumaji.info": "El desierto aparentemente interminable y bendecido por el sol es el hogar de la tribu {0}. \n \n {0} comienza el juego con la tecnología '{1}'",
   "tribes.kickoo": "Kickoo",
-
-  "tribes.kickoo.info": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.kickoo.info": "Playas de arena blanca con cocoteros. Abundancia de frutas y pescado. Bienvenido a la casa de {0}. \n \n {0} comienza el juego con la tecnología '{1}' ",
   "tribes.hoodrick": "Hoodrick",
-
-  "tribes.hoodrick.info": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.hoodrick.info": "Las hojas amarillas de otoño de los {0} bosques son escondites perfectos para sus peculiares habitantes de relleno de hongos. \n \n {0} comienza el juego con la tecnología '{1}'",
   "tribes.luxidoor": "Luxidoor",
-
-  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside the walls of their beloved capital?  \n\n{0} starts the game with a huge walled capital.",
-
+  "tribes.luxidoor.info": "A los {0} les encantan las cosas caras, las joyas, las especias raras y los adornos exclusivos. ¡Esa es también la razón por la que son la tribu más cara de la Politopia! \n \n Sus ciudadanos llevan una vida muy cómoda, envueltos la mejor seda púrpura. ¿Pero sobrevivirán fuera de los muros de su amada capital? \n \n {0} comienza el juego con una enorme capital amurallada",
   "tribes.vengir": "Vengir",
-
-  "tribes.vengir.info": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordman.",
-
+  "tribes.vengir.info": "Mal visto por las otras tribus y empujado a las tierras baldías desagradables. ¿Tolerarán esta injusticia o se levantarán para defenderse? \n \n {0} comenzar el juego con el '{1}' tecnología y un poderoso espadachín ",
   "tribes.zebasi": "Zebasi",
-
-  "tribes.zebasi.info": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
-
-  "tribes.zebasi.news": "All profits from the Zebasi tribe is invested in solar energy projects.",
-
+  "tribes.zebasi.info": "{0} prosperan en la cálida sabana, cultivando la tierra rica para proporcionar alimento a su poderosa población. \n \n {0} comienza el juego con la tecnología '{1}'" ,
+  "tribes.zebasi.news": "Todos los beneficios de la tribu Zebasi se invierten en proyectos de energía solar",
   "tribes.aimo": "Ai-Mo",
-
-  "tribes.aimo.info": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
-
-  "tribes.aquarion": "Aquarion",
-
-  "tribes.aquarion.info": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
-
+  "tribes.aimo.info": "La tribu tranquila y sabia {0} habita en la cordillera más áspera, más ventosa y más alta de la plaza, donde han encontrado la paz interior al meditar en la eterna luz del atardecer. \n \n {0} comienza el juego con la tecnología '{1}' ",
+  "tribes.aquarion": "Acuario",
+  "tribes.aquarion.info": "¡Desde los océanos profundos aparece una civilización perdida hace mucho tiempo! Su aislamiento extremo les ha dado habilidades acuáticas especiales que son desconocidas para las otras tribus más humanas. \n \n {0} tienen una tecnología ligeramente diferente árbol y tener acceso a las unidades únicas de tortugas anfibias que ninguna otra tribu puede entrenar ",
   "tribes.quetzali": "Quetzali",
-
-  "tribes.quetzali.info": "The {0} tribe worship the bird gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
-
-  "tribes.elyrion": "âˆ‘âˆ«á»¹riÈ±Å‹",
-
-  "tribes.elyrion.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
-
+  "tribes.quetzali.info": "La tribu {0} adora a los dioses de los pájaros del suelo rojo y vive en armonía con la simetría natural de sus selvas cubistas. Se los ve comúnmente montando enormes pájaros no voladores. \n \n {0} comienza el juego con la tecnología '{1}' ",
+  "tribes.elyrion": "âˆ'âˆ« á »¹riÈ ± Å‹ ",
+  "tribes.elyrion.info": "¡Los misteriosos {0} defienden sus casas en el bosque con magia colorida y la ferocidad de los dragones que escupen fuego! \n \n Ellos consideran a la Naturaleza como un espíritu santo y no pueden cazar animales ni talar árboles, comienzan el juego con la tecnología única de encantamiento que puede convertir a los animales normales en poderosos monstruos ",
   "tribes.yadakk": "YÄƒdakk",
-
-  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
-
+  "tribes.yadakk.info": "Los {0} comenzaron como una tribu nómada en las hermosas y duras llanuras de Khalee. Ahora son los comerciantes de la plaza, conectando su imperio con impresionantes rutas comerciales. \n \n {0} comienza el juego con la tecnología '{1}' ",
   "tribes.polaris": "Polaris",
-
-  "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-
-
-
-  "building.capital.owner": "{0} is the {1} capital",
-
-  "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
-
-  "building.city.owner": "{0} is a city in the {1} empire",
-
-  "building.village.owner": "This is a village that doesn't belong to any tribe",
-
-  "building.ability.attract": "attracts a wild animal to a nearby forest tile every 3 turns",
-
-  "building.produce": "produces {0} each turn",
-
-  "building.produce.multiply.polaris": " ({0} for every {1} frozen tiles in the world)",
-
-  "building.produce.multiply2.polaris": "Produces {0} for every {1} frozen tiles in the world",
-
-  "building.produce.multiply": " ({0} for each nearby {1})",
-
-  "building.produce.multiply2": "produces {0} for each nearby {1} each turn",
-
-  "building.produce.multiply3": "produces {0} for each nearby {1}",
-
-  "building.produce.reward.named": "produces {0} for {1}",
-
-  "building.produce.reward": "produces {0}",
-
-  "building.reward.tech": "gives you a {0}",
-
-  "building.reward.instant": "instantly gives you {0}",
-
-  "building.transform": "transforms a {0} into a {1}",
-
-  "building.transform2": "transforms a {0} into a {1} with {2} ",
-
-  "building.resource": "adds a {0} at the selected tile",
-
-  "building.value": "is worth {0} points of score",
-
-  "building.ability.embark": "Units that move here will turn into boats that can move on water.",
-
-  "building.ability.route": "It creates trade routes through {0} to any other {1} within a 5 tiles radius.",
-
-  "building.ability.route.and": " and ",
-
-  "building.ability.road": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
-
-  "building.ability.ruin": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
-
-  "building.ability.patina": "{0} grows over time, so try to build them as early as possible.",
-
-  "building.ability.limited": "You can only build one {0} per city.",
-
-  "building.ability.unique": "{0} can only be built once.",
-
-  "building.restriction.near": "Must be built next to a {0}.",
-
-  "building.restriction.on": "Must be on a tile with {0}.",
-
-  "building.names.city": "City",
-
-  "building.names.ruin": "Ruin",
-
-  "building.names.monument1": "Altar of Peace",
-
-  "building.names.monument2": "Tower of wisdom",
-
-  "building.names.monument3": "Grand Bazaar",
-
-  "building.names.monument4": "Emperors Tomb",
-
-  "building.names.monument5": "Gate of Power",
-
-  "building.names.monument6": "Park of Fortune",
-
-  "building.names.monument7": "Eye of God",
-
-  "building.names.temple": "Temple",
-
-  "building.names.burnforest": "Burn Forest",
-
-  "building.names.road": "Road",
-
-  "building.names.customshouse": "Customs House",
-
-  "building.names.gather": "Harvest fruit",
-
-  "building.names.farm": "Farm",
-
-  "building.names.windmill": "Windmill",
-
-  "building.names.fishing": "Fishing",
-
-  "building.names.whalehunting": "Whale Hunting",
-
-  "building.names.watertemple": "Water Temple",
-
-  "building.names.port": "Port",
-
-  "building.names.hunting": "Hunting",
-
-  "building.names.clearforest": "Clear forest",
-
-  "building.names.lumberhut": "Lumber Hut",
-
-  "building.names.sawmill": "Sawmill",
-
-  "building.names.growforest": "Grow Forest",
-
-  "building.names.foresttemple": "Forest Temple",
-
-  "building.names.mountaintemple": "Mountain Temple",
-
-  "building.names.mine": "Mine",
-
-  "building.names.forge": "Forge",
-
-  "building.names.sanctuary": "Sanctuary",
-
-  "building.names.enchant": "Enchant Animal",
-
-  "building.names.enchant_whale": "Enchant Whale",
-
-  "building.names.ice_bank": "Ice Bank",
-
-  "building.names.iceport": "Outpost",
-
-  "building.names.icetemple": "Ice Temple",
-
-
-
-  "unit": "unit",
-
-  "unit.info.attack": "Attack",
-
-  "unit.info.defence": "Defence",
-
-  "unit.info.movement": "Movement",
-
-  "unit.info.health": "Health",
-
-  "unit.info.range": "Range",
-
-  "unit.info.skills": "Skills",
-
-  "unit.names.giant": "Giant",
-
-  "unit.names.crab": "Crab",
-
-  "unit.names.egg": "Dragon Egg",
-
+  "tribes.polaris.info": "Los {0} han permanecido atrapados en los confines de la tundra helada durante eones, pero fueron bendecidos por el desconocido Gaami con el poder de expandir su terreno helado no natural más allá de lo que el clima lo permite. \n \n Con el poder de los trineos y Mamuts, los místicos {0} están decididos a sepultar la Plaza en hielo y transformar la tierra en un paraíso helado. \n \n {0} comienza el juego con la capacidad de congelar el terreno circundante usando Moonies ",
+
+  "building.capital.owner": "{0} es la {1} capital",
+  "building.capital.owner.former": "{0} es la antigua capital del imperio {1}, actualmente ocupada por {2} fuerzas",
+  "building.city.owner": "{0} es una ciudad en el imperio {1}",
+  "building.village.owner": "Esta es una aldea que no pertenece a ninguna tribu",
+  "building.ability.attract": "atrae un animal salvaje a un mosaico de bosque cercano cada 3 turnos",
+  "building.produce": "produce {0} cada turno",
+  "building.produce.multiply.polaris": "({0} por cada {1} fichas congeladas del mundo)",
+  "building.produce.multiply2.polaris": "Produce {0} por cada {1} fichas congeladas del mundo",
+  "building.produce.multiply": "({0} para cada {1} cercano", 
+  "building.produce.multiply2": "produce {0} por cada {1} cercano cada turno",
+  "building.produce.multiply3": "produce {0} por cada {1} cercano",
+  "building.produce.reward.named": "produce {0} para {1}",
+  "building.produce.reward": "produce {0}",
+  "building.reward.tech": "le da un {0}",
+  "building.reward.instant": "al instante te da {0}",
+  "building.transform": "transforma un {0} en un {1}",
+  "building.transform2": "transforma un {0} en un {1} con {2}",
+  "building.resource": "agrega un {0} en el mosaico seleccionado",
+  "building.value": "vale {0} puntos de puntuación",
+  "building.ability.embark": "Las unidades que se mueven aquí se convertirán en botes que pueden moverse en el agua",
+  "building.ability.route": "Crea rutas comerciales a través de {0} a cualquier otro {1} dentro de un radio de 5 mosaicos",
+  "building.ability.route.and": "y",
+  "building.ability.road": "Construye carreteras para conectar ciudades con la capital. Las ciudades conectadas obtienen 1 población como recompensa. Las carreteras también otorgan una bonificación de movimiento para todas las unidades",
+  "building.ability.ruin": "¡Una ruina de una civilización antigua, puede contener cosas valiosas! Ve allí con una unidad para examinarla",
+  "building.ability.patina": "{0} crece con el tiempo, así que intente construirlos lo antes posible",
+  "building.ability.limited": "Solo puedes construir uno {0} por ciudad",
+  "building.ability.unique": "{0} solo se puede construir una vez",
+  "building.restriction.near": "Debe construirse junto a un {0}",
+  "building.restriction.on": "Debe estar en un mosaico con {0}",
+  "building.names.city": "Ciudad",
+  "building.names.ruin": "Ruina",
+  "building.names.monument1": "Altar de la paz",
+  "building.names.monument2": "Torre de la sabiduría",
+  "building.names.monument3": "Gran Bazar",
+  "building.names.monument4": "Tumba del emperador",
+  "building.names.monument5": "Puerta del poder",
+  "building.names.monument6": "Parque de la fortuna",
+  "building.names.monument7": "Ojo de Dios",
+  "building.names.temple": "Templo",
+  "building.names.burnforest": "Quemar bosque",
+  "building.names.road": "Carretera",
+  "building.names.customshouse": "Aduana",
+  "building.names.gather": "Cosecha de fruta",
+  "building.names.farm": "Granja",
+  "building.names.windmill": "Molino de viento",
+  "building.names.fishing": "Pesca",
+  "building.names.whalehunting": "Caza de ballenas",
+  "building.names.watertemple": "Templo del agua",
+  "building.names.port": "Puerto",
+  "building.names.hunting": "Caza",
+  "building.names.clearforest": "Bosque claro",
+  "building.names.lumberhut": "Cabaña de madera",
+  "building.names.sawmill": "Aserradero",
+  "building.names.growforest": "Cultivar bosque",
+  "building.names.foresttemple": "Templo del bosque",
+  "building.names.mountaintemple": "Templo de la montaña",
+  "building.names.mine": "Mina",
+  "building.names.forge": "Fragua",
+  "building.names.sanctuary": "Santuario",
+  "building.names.enchant": "Encantar animal",
+  "building.names.enchant_whale": "Encantar ballena",
+  "building.names.ice_bank": "Banco de hielo",
+  "building.names.iceport": "Puesto avanzado",
+  "building.names.icetemple": "Templo de hielo",
+
+  "unit": "unidad",
+  "unit.info.attack": "Ataque",
+  "unit.info.defence": "Defensa",
+  "unit.info.movement": "Movimiento",
+  "unit.info.health": "Salud",
+  "unit.info.range": "Rango",
+  "unit.info.skills": "Habilidades",
+  "unit.names.giant": "Gigante",
+  "unit.names.crab": "Cangrejo",
+  "unit.names.egg": "Huevo de dragón",
   "unit.names.wendy": "Gaami",
-
-  "unit.names.bunny": "Bunny",
-
-  "unit.names.scout": "Scout",
-
-  "unit.names.boat": "Boat",
-
-  "unit.names.warrior": "Warrior",
-
-  "unit.names.rider": "Rider",
-
-  "unit.names.knight": "Knight",
-
-  "unit.names.defender": "Defender",
-
-  "unit.names.ship": "Ship",
-
-  "unit.names.battleship": "Battleship",
-
-  "unit.names.catapult": "Catapult",
-
-  "unit.names.archer": "Archer",
-
-  "unit.names.priest": "Mind Bender",
-
-  "unit.names.swordman": "Swordsman",
-
-  "unit.names.amphibian": "Amphibian",
-
+  "unit.names.bunny": "Conejito",
+  "unit.names.scout": "Explorar",
+  "unit.names.boat": "Barco",
+  "unit.names.warrior": "Guerrero",
+  "unit.names.rider": "Jinete",
+  "unit.names.knight": "Caballero",
+  "unit.names.defender": "Defensor",
+  "unit.names.ship": "Enviar",
+  "unit.names.battleship": "Acorazado",
+  "unit.names.catapult": "Catapulta",
+  "unit.names.archer": "Arquero",
+  "unit.names.priest": "Sacerdote",
+  "unit.names.swordman": "Espadachín",
+  "unit.names.amphibian": "Anfibio",
   "unit.names.tridention": "Tridention",
-
-  "unit.names.dragon": "Baby Dragon",
-
-  "unit.names.dragon_large": "Fire Dragon",
-
+  "unit.names.dragon": "Bebe Dragon",
+  "unit.names.dragon_large": "Dragón de fuego",
   "unit.names.polytaur": "Polytaur",
-
   "unit.names.seamonster": "Navalon",
-
   "unit.names.icemaker": "Mooni",
-
-  "unit.names.battlesled": "Battle Sled",
-
-  "unit.names.fortress": "Ice Fortress",
-
-  "unit.names.icearcher": "Ice Archer",
-
-  "unit.ability": "ability",
-
+  "unit.names.battlesled": "Trineo de batalla",
+  "unit.names.fortress": "Fortaleza de hielo",
+  "unit.names.icearcher": "Arquero de hielo",
+  "unit.ability": "habilidad",
   "unit.abilities.dash": "DASH",
-
   "unit.abilities.escape": "ESCAPE",
-
-  "unit.abilities.scout": "SCOUT",
-
-  "unit.abilities.sneak": "SNEAK",
-
-  "unit.abilities.hide": "HIDE",
-
-  "unit.abilities.build": "BUILD",
-
-  "unit.abilities.persist": "PERSIST",
-
-  "unit.abilities.convert": "CONVERT",
-
-  "unit.abilities.heal": "HEAL",
-
-  "unit.abilities.swim": "SWIM",
-
-  "unit.abilities.carry": "CARRY",
-
-  "unit.abilities.grow": "GROW",
-
-  "unit.abilities.fly": "FLY",
-
+  "unit.abilities.scout": "EXPLORAR",
+  "unit.abilities.sneak": "FURTIVO",
+  "unit.abilities.hide": "OCULTAR",
+  "unit.abilities.build": "CONSTRUIR",
+  "unit.abilities.persist": "PERSISTIR",
+  "unit.abilities.convert": "CONVERTIR",
+  "unit.abilities.heal": "CURAR",
+  "unit.abilities.swim": "NADAR",
+  "unit.abilities.carry": "LLEVAR",
+  "unit.abilities.grow": "CRECER",
+  "unit.abilities.fly": "VOLAR",
   "unit.abilities.splash": "SPLASH",
+  "unit.abilities.decay": "DECAER",
+  "unit.abilities.navigate": "NAVEGAR",
+  "unit.abilities.freeze": "CONGELAR",
+  "unit.abilities.freezearea": "ÁREA DE CONGELACIÓN",
+  "unit.abilities.autofreeze": "CONGELACIÓN AUTOMÁTICA",
+  "unit.abilities.skate": "ESQUIAR",
+  "unit.abilities.fortify": "FORTIFICAR",
 
-  "unit.abilities.decay": "DECAY",
+  "player.abilities.destroy": "destruir",
+  "player.abilities.disband": "disolver",
+  "player.abilities.literacy": "alfabetización",
+  "player.abilities.glide": "planear",
 
-  "unit.abilities.navigate": "NAVIGATE",
+  "resource.names.fruit": "Fruta",
+  "resource.names.crop": "Cultivo",
+  "resource.names.fish": "Pez",
+  "resource.names.whale": "Ballena",
+  "resource.names.game": "Animal salvaje",
+  "resource.names.metal": "Metal",
 
-  "unit.abilities.freeze": "FREEZE",
-
-  "unit.abilities.freezearea": "FREEZE AREA",
-
-  "unit.abilities.autofreeze": "AUTO FREEZE",
-
-  "unit.abilities.skate": "SKATE",
-
-  "unit.abilities.fortify": "FORTIFY",
-
-
-
-  "player.abilities.destroy": "destroy",
-
-  "player.abilities.disband": "disband",
-
-  "player.abilities.literacy": "literacy",
-
-  "player.abilities.glide": "glide",
-
-
-
-  "resource.names.fruit": "fruit",
-
-  "resource.names.crop": "crop",
-
-  "resource.names.fish": "fish",
-
-  "resource.names.whale": "whale",
-
-  "resource.names.game": "wild animal",
-
-  "resource.names.metal": "metal",
-
-
-
-  "terrain.unknown": "Unknown lands",
-
-  "terrain.water": "Water",
-
-  "terrain.ocean": "Ocean",
-
-  "terrain.field": "Field",
-
-  "terrain.forest": "Forest",
-
-  "terrain.mountain": "Mountain",
-
-  "terrain.ice": "Ice",
-
-  "actionbox.building.level": "level {0}/{1}",
-
-  "actionbox.tile.roads": "roads",
-
-  "actionbox.city": "The city of {0}",
-
+  "terreno.desconocido": "Tierras desconocidas",
+  "terreno.agua": "Agua",
+  "terreno.oceano": "Océano",
+  "terreno.campo": "Campo",
+  "terreno.forest": "Bosque",
+  "terreno.montana": "Montaña",
+  "terreno.ice": "Hielo",
+  "actionbox.building.level": "nivel {0} / {1}",
+  "actionbox.tile.roads": "carreteras",
+  "actionbox.city": "La ciudad de {0}",
   "actionbox.city.level": "lvl {0}",
-
-  "actionbox.village": "Village",
-
-  "actionbox.unit.frozen": "Frozen {0}",
-
-  "actionbox.unit.kills": "{0}/{1} kills",
-
-  "actionbox.unit.veteran": "Veteran",
-
-  "actionbox.unit.new": "Train a new {0} {1}",
-
-  "actionbox.unit.ability": "Unit Ability",
-
-  "actionbox.unit.train": "TRAIN",
-
-  "actionbox.unit.upgrade": "UPGRADE",
-
-  "actionbox.unit.toomany": "(too many)",
-
-  "actionbox.unit.toomany.info": "This city can't support any more units. Upgrade the city to get more space for units.",
-
-  "actionbox.building.doit": "DO IT",
-
-  "actionbox.building.requiredtech": "You need to research {0} to do this, tap the 'Tech Tree' button.",
-
-  "actionbox.building.techtree": "TECH TREE",
-
-  "actionbox.insufficientfunds": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-
-  "actionbox.confirm": "Confirm {0}",
-
-  "actionbox.confirm.info": "Are you sure you want to do this?",
-
-  "actionbox.confirm.button": "YES",
-
-
-
-  "tooltip.tile.road": "Build a road to connect this city to your capital.",
-
-  "tooltip.tile.choose_unit": "Choose a unit to produce.",
-
-  "tooltip.tile.limit": "This city cannot support any more units.",
-
-  "tooltip.tile.capture.enemy": "Your city is being captured by the enemy!",
-
-  "tooltip.tile.capture": "This city is being captured.",
-
-  "tooltip.tile.capture.tip": "Move a unit here to capture this city!",
-
-  "tooltip.tile.produces": "Produces {0} each turn.",
-
-  "tooltip.tile.level.polaris": "Freeze {0} more tiles to reach the next level",
-
-  "tooltip.tile.level.next": "Next level in {0} turns",
-
-  "tooltip.tile.level.max": "Has reached maximum level",
-
-  "tooltip.tile.sailing": "Move a unit here to start sailing!",
-
-  "tooltip.tile.monuments": "Monuments gives your empire extra score!",
-
-  "tooltip.tile.ruin": "Move a unit here and examine these ancient ruins.",
-
-  "tooltip.tile.blocked": "This resource is blocked by an enemy unit",
-
-  "tooltip.tile.extract.upgrade": "Extract this resource to upgrade your city",
-
-  "tooltip.tile.extract.convert": "This resource can be transformed into a unit",
-
-  "tooltip.tile.extract.stars": "Extract this resource to earn stars instantly",
-
-  "tooltip.tile.extract.research": "You need to research {0} to extract this resource",
-
-  "tooltip.tile.outside": "This resource is outside of your empire",
-
-  "tooltip.tile.research": "You need to research {0} to be able to move here",
-
-  "tooltip.tile.explore": "Explore this area to see what it holds!",
-
-  "tooltip.unit.city.capture": "Tap 'Capture' to add this city to your empire",
-
-  "tooltip.unit.city.capture.next": "This city will be ready to capture next turn",
-
-  "tooltip.unit.city.capture.flying": "Flying units cannot capture cities",
-
-  "tooltip.unit.actions.none": "No actions left. Press 'Next Turn' to move this unit again.",
-
-  "tooltip.unit.actions.move": "Click a blue mark to move.",
-
-  "tooltip.unit.actions.attack": "Click a red mark to attack!",
-
-  "tooltip.unit.enemy": "This is the enemy!",
-
-  "tooltip.unit.enemy.territory": "This enemy is in your territory!",
-
-  "tooltip.unit.enemy.city": "This enemy is capturing your city!",
-
-  "tooltip.unit.grow.now": "Will grow to {0} at the end of this turn!",
-
-  "tooltip.unit.grow.later": "Will grow to {0} in {1} turns.",
-
-  "tooltip.unit.decay.now": "This unit will dissolve at the end of this turn.",
-
-  "tooltip.unit.decay.later": "This unit will dissolve in {0} turns.",
-
-  "tooltip.ability.disband": "Remove any of your own units and get half of its cost in return.",
-
-  "tooltip.ability.destroy": "Remove any building within your borders, great for reconstructing your empire.",
-
-  "tooltip.ability.literacy": "Reduce the price of all technologies by 20%.",
-
-  "tooltip.ability.glide": "All non skating units get an extra move when moving on ice.",
-
-  "tooltip.ability.dash": "This unit can attack after moving if there is an enemy in range.",
-
-  "tooltip.ability.convert": "This unit can convert an enemy to your own tribe by attacking it.",
-
-  "tooltip.ability.escape": "This unit can move again after attacking.",
-
-  "tooltip.ability.persist": "This unit can keep attacking as long as it completely kills its victims.",
-
-  "tooltip.ability.swim": "This unit is amphibious and can move on both land and water.",
-
-  "tooltip.ability.carry": "This unit is carrying another unit inside.",
-
-  "tooltip.ability.heal": "This unit can heal surrounding units.",
-
-  "tooltip.ability.navigate": "This unit can move in any terrain even if you do not have the tech needed to move there.",
-
-  "tooltip.ability.fly": "This unit can fly over any terrain with no movement penalties or bonuses.",
-
-  "tooltip.ability.splash": "This unit causes splash damage to nearby units when attacking.",
-
-  "tooltip.ability.grow": "This unit will eventually grow and become something else.",
-
-  "tooltip.ability.sneak": "This unit can move past enemy units without stopping.",
-
-  "tooltip.ability.scout": "This unit has double vision range.",
-
-  "tooltip.ability.freeze": "This unit freezes its enemies when attacking them so they cannot move.",
-
-  "tooltip.ability.freeze_area": "This unit can freeze the surrounding tiles including any enemy units.",
-
-  "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",
-
-  "tooltip.ability.skate": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
-
-  "tooltip.ability.fortify": "This unit gets a defence bonus when defending in its own cities, double bonus with a city wall.",
-
-
+  "actionbox.village": "Pueblo",
+  "actionbox.unit.frozen": "Congelado {0}",
+  "actionbox.unit.kills": "{0} / {1} mata",
+  "actionbox.unit.veteran": "Veterano",
+  "actionbox.unit.new": "Entrena un nuevo {0} {1}",
+  "actionbox.unit.ability": "Capacidad de la unidad",
+  "actionbox.unit.train": "TREN",
+  "actionbox.unit.upgrade": "ACTUALIZAR",
+  "actionbox.unit.toomany": "(demasiados)",
+  "actionbox.unit.toomany.info": "Esta ciudad no puede soportar más unidades. Actualiza la ciudad para obtener más espacio para unidades",
+  "actionbox.building.doit": "HAZLO",
+  "actionbox.building.requiredtech": "Necesita investigar {0} para hacer esto, toque el botón 'Árbol tecnológico'",
+  "actionbox.building.techtree": "Arbol de Tecnologias",
+  "actionbox.insufficientfunds": "No tienes suficientes estrellas para comprar esto. Toca 'próximo turno' para obtener más estrellas",
+  "actionbox.confirm": "Confirmar {0}",
+  "actionbox.confirm.info": "¿Está seguro de que desea hacer esto?",
+  "actionbox.confirm.button": "SÍ",
+
+  "tooltip.tile.road": "Construye una carretera para conectar esta ciudad con tu capital",
+  "tooltip.tile.choose_unit": "Elija una unidad para producir",
+  "tooltip.tile.limit": "Esta ciudad no puede soportar más unidades",
+  "tooltip.tile.capture.enemy": "¡Tu ciudad está siendo capturada por el enemigo!",
+  "tooltip.tile.capture": "Esta ciudad está siendo capturada",
+  "tooltip.tile.capture.tip": "¡Mueve una unidad aquí para capturar esta ciudad!",
+  "tooltip.tile.produces": "Produce {0} cada turno",
+  "tooltip.tile.level.polaris": "Congela {0} más fichas para alcanzar el siguiente nivel",
+  "tooltip.tile.level.next": "Siguiente nivel en {0} turnos",
+  "tooltip.tile.level.max": "Ha alcanzado el nivel máximo",
+  "tooltip.tile.sailing": "¡Mueve una unidad aquí para comenzar a navegar!",
+  "tooltip.tile.monuments": "¡Monuments le da a tu imperio un puntaje extra!",
+  "tooltip.tile.ruin": "Mueve una unidad aquí y examina estas ruinas antiguas",
+  "tooltip.tile.blocked": "Este recurso está bloqueado por una unidad enemiga",
+  "tooltip.tile.extract.upgrade": "Extrae este recurso para actualizar tu ciudad",
+  "tooltip.tile.extract.convert": "Este recurso se puede transformar en una unidad",
+  "tooltip.tile.extract.stars": "Extrae este recurso para ganar estrellas al instante",
+  "tooltip.tile.extract.research": "Necesita investigar {0} para extraer este recurso",
+  "tooltip.tile.outside": "Este recurso está fuera de tu imperio",
+  "tooltip.tile.research": "Necesita investigar {0} para poder moverse aquí",
+  "tooltip.tile.explore": "¡Explore esta área para ver qué contiene!",
+  "tooltip.unit.city.capture": "Toque 'Capturar' para agregar esta ciudad a su imperio",
+  "tooltip.unit.city.capture.next": "Esta ciudad estará lista para capturar el próximo turno",
+  "tooltip.unit.city.capture.flying": "Las unidades voladoras no pueden capturar ciudades",
+  "tooltip.unit.actions.none": "No quedan acciones. Presione 'Siguiente giro' para mover esta unidad nuevamente",
+  "tooltip.unit.actions.move": "Haga clic en una marca azul para moverse",
+  "tooltip.unit.actions.attack": "¡Haz clic en una marca roja para atacar!",
+  "tooltip.unit.enemy": "¡Este es el enemigo!",
+  "tooltip.unit.enemy.territory": "¡Este enemigo está en tu territorio!",
+  "tooltip.unit.enemy.city": "¡Este enemigo está capturando tu ciudad!",
+  "tooltip.unit.grow.now": "¡Crecerá hasta {0} al final de este turno!",
+  "tooltip.unit.grow.later": "Crecerá a {0} en {1} turnos",
+  "tooltip.unit.decay.now": "Esta unidad se disolverá al final de este turno",
+  "tooltip.unit.decay.later": "Esta unidad se disolverá en {0} turnos",
+  "tooltip.ability.disband": "Retire cualquiera de sus propias unidades y obtenga la mitad de su costo a cambio",
+  "tooltip.ability.destroy": "Elimina cualquier edificio dentro de tus fronteras, ideal para reconstruir tu imperio",
+  "tooltip.ability.literacy": "Reduzca el precio de todas las tecnologías en un 20%",
+  "tooltip.ability.glide": "Todas las unidades que no patinan obtienen un movimiento adicional cuando se mueven sobre hielo",
+  "tooltip.ability.dash": "Esta unidad puede atacar después de moverse si hay un enemigo a su alcance",
+  "tooltip.ability.convert": "Esta unidad puede convertir a un enemigo en tu propia tribu atacándola",
+  "tooltip.ability.escape": "Esta unidad puede moverse nuevamente después de atacar",
+  "tooltip.ability.persist": "Esta unidad puede seguir atacando mientras mate por completo a sus víctimas",
+  "tooltip.ability.swim": "Esta unidad es anfibia y puede moverse tanto en tierra como en agua",
+  "tooltip.ability.carry": "Esta unidad lleva otra unidad adentro",
+  "tooltip.ability.heal": "Esta unidad puede curar a las unidades circundantes",
+  "tooltip.ability.navigate": "Esta unidad puede moverse en cualquier terreno incluso si no tiene la tecnología necesaria para moverse allí",
+  "tooltip.ability.fly": "Esta unidad puede volar sobre cualquier terreno sin penalizaciones de movimiento ni bonificaciones",
+  "tooltip.ability.splash": "Esta unidad causa daños por salpicadura a las unidades cercanas cuando ataca",
+  "tooltip.ability.grow": "Esta unidad eventualmente crecerá y se convertirá en otra cosa",
+  "tooltip.ability.sneak": "Esta unidad puede pasar unidades enemigas sin detenerse",
+  "tooltip.ability.scout": "Esta unidad tiene un rango de visión doble",
+  "tooltip.ability.freeze": "Esta unidad congela a sus enemigos cuando los ataca para que no puedan moverse",
+  "tooltip.ability.freeze_area": "Esta unidad puede congelar las fichas circundantes, incluidas las unidades enemigas",
+  "tooltip.ability.freeze_auto": "Esta unidad congela las fichas y unidades circundantes cuando se mueve",
+  "tooltip.ability.skate": "Esta unidad obtiene doble movimiento en las fichas de hielo pero en tierra su movimiento está limitado a 1 ficha y todas las demás habilidades están desactivadas",
+  "tooltip.ability.fortify": "Esta unidad obtiene una bonificación de defensa cuando defiende en sus propias ciudades, doble bonificación con una muralla",
 
   "buttons.ok": "OK",
-
-  "buttons.exit": "EXIT",
-
-  "buttons.save": "SAVE",
-
-  "buttons.back": "BACK",
-
-
+  "buttons.exit": "SALIR",
+  "buttons.save": "GUARDAR",
+  "buttons.back": "ATRAS",
 
   "gameinfo.id": "id: {0}",
-
-  "gameinfo.lastmove": "Last move: {0} ago",
-
-  "gameinfo.updated": "updated: {0} ago",
-
-  "gameinfo.turn": "Turn: {0}",
-
-  "gameinfo.serverversion": "Server version: {0}",
-
-  "gameinfo.gameover": "This game is over, open it to view the final result",
-
-  "gameinfo.yourturn": "It is your turn to {0}",
-
-  "gameinfo.opponentsturn": "Waiting for {0} to {1}",
-
-  "gameinfo.start": "start the game",
-
-  "gameinfo.picktribe": "pick tribe",
-
-  "gameinfo.play": "play",
-
-
-
-  "gamesaverbinary.unable.to.save": "I was unable to save the game, make sure you have sufficient storage on your device",
-
-  "gamesaverbinary.unable.to.save.title": "Could not save :(",
-
-  "gamesaverbinary.error.loading.moves": "Error loading moves",
-
-
-
-  "polyplayer.task": "task",
-
-  "polyplayer.task.explorer.title": "Explorer",
-
-  "polyplayer.task.explorer.description": "Explore every single tile in this square world",
-
-  "polyplayer.task.war.title": "No mercy",
-
-  "polyplayer.task.war.description": "Wipe out an enemy",
-
-  "polyplayer.task.pacifist.title": "Pacifist",
-
-  "polyplayer.task.pacifist.description": "Make no attacks for 5 turns",
-
-  "polyplayer.task.killer.title": "Killer",
-
-  "polyplayer.task.killer.description": "Kill 10 enemies in battle",
-
-  "polyplayer.task.wealth.title": "Wealth",
-
-  "polyplayer.task.wealth.description": "Gather 100 stars",
-
-  "polyplayer.task.genius.title": "Genius",
-
-  "polyplayer.task.genius.description": "Discover all available technologies",
-
-  "polyplayer.task.metropolis.title": "Metropolis",
-
-  "polyplayer.task.metropolis.description": "Create a level 5 city",
-
-  "polyplayer.task.network.title": "Network",
-
-  "polyplayer.task.network.description": "Connect 5 cities to your capital",
-
-
-
-  "task.info": "{0} to get {1}",
-
-
-
-  "price.stars": "star",
-
-  "price.stars.plural": "stars",
-
-  "price.population": "population",
-
-  "price.population.plural": "population",
-
-  "price.points": "point",
-
-  "price.points.plural": "points",
-
-
-
-  "wcontroller.online.yourturn.title": "It's your turn!",
-
-  "wcontroller.online.yourturn.description": "Tap ok to continue the game when you are ready.",
-
-  "wcontroller.convertvillage.description": "The villagers agree to join your emerging empire!",
-
-  "wcontroller.convertvillage.title": "Village converted!",
-
-  "wcontroller.capital.regained.description": "You have regained control of your capital, trade networks are reestablished",
-
-  "wcontroller.capital.regained.title": "Great news!",
-
-  "wcontroller.capital.lost.description": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
-
-  "wcontroller.capital.lost.title": "Bad news!",
-
-  "wcontroller.capital.captured.description": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
-
-  "wcontroller.capital.captured.title": "Great news!",
-
-  "wcontroller.capital.captured2.description": "{0} is now part of the {1} empire",
-
-  "wcontroller.capital.captured2.title": "City captured!",
-
-  "wcontroller.kill.upgrade.description": "Unit is ready to upgrade!",
-
-  "wcontroller.kill.upgrade.title": "Level Up!",
-
-  "wcontroller.examine.water.elyrion": "You encountered an enchanted {0} who joined your tribe!",
-
-  "wcontroller.examine.water": "You encountered a band of friendly pirates who joined your tribe!",
-
-  "wcontroller.examine.water.title": "Battle ship",
-
-  "wcontroller.examine.giant": "You found a friendly {0} who joined your tribe!",
-
-  "wcontroller.examine.explorer": "You meet some locals who show you the surrounding lands.",
-
+  "gameinfo.lastmove": "Último movimiento: hace {0}",
+  "gameinfo.updated": "actualizado: hace {0}",
+  "gameinfo.turn": "Turno: {0}",
+  "gameinfo.serverversion": "Versión del servidor: {0}",
+  "gameinfo.gameover": "Este juego ha terminado, ábrelo para ver el resultado final",
+  "gameinfo.yourturn": "Es tu turno de {0}",
+  "gameinfo.opponentsturn": "Esperando {0} a {1}",
+  "gameinfo.start": "inicia el juego",
+  "gameinfo.picktribe": "elegir tribu",
+  "gameinfo.play": "jugar",
+
+  "gamesaverbinary.unable.to.save": "No pude guardar el juego, asegúrese de tener suficiente almacenamiento en su dispositivo",
+  "gamesaverbinary.unable.to.save.title": "No se pudo guardar :(",
+  "gamesaverbinary.error.loading.moves": "Error al cargar movimientos",
+
+  "polyplayer.task": "tarea",
+  "polyplayer.task.explorer.title": "Explorador",
+  "polyplayer.task.explorer.description": "Explore cada mosaico en este mundo cuadrado",
+  "polyplayer.task.war.title": "Sin piedad",
+  "polyplayer.task.war.description": "Elimina a un enemigo",
+  "polyplayer.task.pacifist.title": "Pacifista",
+  "polyplayer.task.pacifist.description": "No realizar ataques durante 5 turnos",
+  "polyplayer.task.killer.title": "Asesino",
+  "polyplayer.task.killer.description": "Mata a 10 enemigos en la batalla",
+  "polyplayer.task.wealth.title": "Riqueza",
+  "polyplayer.task.wealth.description": "Reúne 100 estrellas",
+  "polyplayer.task.genius.title": "Genio",
+  "polyplayer.task.genius.description": "Descubra todas las tecnologías disponibles",
+  "polyplayer.task.metropolis.title": "Metrópolis",
+  "polyplayer.task.metropolis.description": "Crear una ciudad de nivel 5",
+  "polyplayer.task.network.title": "Red",
+  "polyplayer.task.network.description": "Conecta 5 ciudades a tu capital",
+
+  "task.info": "{0} para obtener {1}",
+
+  "price.stars": "estrella",
+  "price.stars.plural": "estrellas",
+  "price.population": "población",
+  "price.population.plural": "población",
+  "price.points": "punto",
+  "price.points.plural": "puntos",
+
+  "wcontroller.online.yourturn.title": "¡Es tu turno!",
+  "wcontroller.online.yourturn.description": "Toca ok para continuar el juego cuando estés listo",
+  "wcontroller.convertvillage.description": "¡Los aldeanos aceptan unirse a tu imperio emergente!",
+  "wcontroller.convertvillage.title": "¡Pueblo convertido!",
+  "wcontroller.capital.regained.description": "Has recuperado el control de tu capital, se han restablecido las redes comerciales",
+  "wcontroller.capital.regained.title": "¡Buenas noticias!",
+  "wcontroller.capital.lost.description": "¡Tu capital ha sido capturado por las {0} hordas! Todas tus conexiones comerciales se cancelan hasta que recuperes el control de tu capital",
+  "wcontroller.capital.lost.title": "¡Malas noticias!",
+  "wcontroller.capital.captured.description": "¡Has capturado la {0} capital! Todas sus conexiones comerciales se cancelan hasta que recuperan el control de su capital",
+  "wcontroller.capital.captured.title": "¡Buenas noticias!",
+  "wcontroller.capital.captured2.description": "{0} ahora es parte del imperio {1}",
+  "wcontroller.capital.captured2.title": "¡Ciudad capturada!",
+  "wcontroller.kill.upgrade.description": "¡La unidad está lista para actualizar!",
+  "wcontroller.kill.upgrade.title": "¡Subir de nivel!",
+  "wcontroller.examine.water.elyrion": "¡Encontró un {0} encantado que se unió a su tribu!",
+  "wcontroller.examine.water": "¡Te encontraste con una banda de piratas amigos que se unieron a tu tribu!",
+  "wcontroller.examine.water.title": "Barco de batalla",
+  "wcontroller.examine.giant": "¡Encontraste un amigo {0} que se unió a tu tribu!",
+  "wcontroller.examine.explorer": "Te encuentras con algunos lugareños que te muestran las tierras circundantes",
   "wcontroller.examine.explorer.title": "Explorer",
-
-  "wcontroller.examine.tech": "You found some old scrolls containing the secret of {0}.",
-
-  "wcontroller.examine.tech.title": "Scrolls of Wisdom",
-
-  "wcontroller.examine.stars": "The ancient ruins are filled with valuable resources!",
-
-  "wcontroller.examine.stars.title": "Resources",
-
-  "wcontroller.examine.population": "You meet a nomadic tribe that settle in your capital!",
-
-  "wcontroller.examine.population.title": "Population",
-
-  "wcontroller.move.unto.unit": "CANT MOVE ONTO ANOTHER UNIT",
-
-  "wcontroller.building.upgrade": "Your {0} upgraded to a {1}!",
-
-  "wcontroller.building.upgrade.reward": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
-
-  "wcontroller.reward.workshop": "workshop",
-
-  "wcontroller.reward.citywall": "city wall",
-
-  "wcontroller.reward.populationgrowth": "population growth",
-
-  "wcontroller.reward.park": "park",
-
-  "wcontroller.reward.explorer": "explorer",
-
-  "wcontroller.reward.resources": "resources",
-
-  "wcontroller.reward.bordergrowth": "border growth",
-
-  "wcontroller.reward.superunit": "super unit",
-
-  "wcontroller.unit.promotion": "Your unit has gained veteran status! Health increased.",
-
-  "wcontroller.unit.promotion.title": "Unit Promoted!",
-
-  "wcontroller.meet.tribe.leader": "Their leader",
-
-  "wcontroller.meet.tribe.bigger.hostile": "laughs at your puny excuse of a Tribe.",
-
-  "wcontroller.meet.tribe.bigger.friendly": "salutes you friendly but pays no attention to your tiny realm.",
-
-  "wcontroller.meet.tribe.smaller.hostile": "seems a bit hostile and greets you suspiciously.",
-
-  "wcontroller.meet.tribe.smaller.friendly": "bows in awe of your might mighty civilization.",
-
-  "wcontroller.meet.tribe.tech.hostile": "You manage to steal the secret of {0}!",
-
-  "wcontroller.meet.tribe.tech.friendly": "As a gesture of good will they share the secret of {0}!",
-
-  "wcontroller.meet.tribe.resource.hostile": "You manage to steal some valuable gold pieces!",
-
-  "wcontroller.meet.tribe.resource.friendly": "They present you with a gift of valuable resources!",
-
-  "wcontroller.tribe.destroy": "You have destroyed {0}!",
-
-  "wcontroller.tribe.destroy.title": "Blood!",
-
-  "wcontroller.tribe.destroy2": "{0} has been destroyed by the {1}!",
-
-  "wcontroller.tribe.destroy.all": "You have destroyed all opposing tribes and unified the entire square under your command!",
-
-  "wcontroller.tribe.destroy.all.title": "Domination!",
-
-  "wcontroller.city.disconnect": "{0} was disconnected from {1}",
-
-  "wcontroller.city.disconnect.title": "Trade route lost!",
-
-  "wcontroller.turn.end": "Ending turn...",
-
-  "wcontroller.turn.saving": "Saving game to server...",
-
-  "wcontroller.turn.notification": "It's your turn in {0} (turn {1})",
-
-  "wcontroller.turn.passed": "Game passed on to {0}",
-
-  "wcontroller.turn.passed.title": "Turn complete",
-
-  "wcontroller.turn.error": "Could not reach the multiplayer server. Please make sure you are connected to the internet and try again.",
-
-  "wcontroller.turn.error.title": "Network Error",
-
-  "wcontroller.turn.next": "Next up",
-
-  "wcontroller.load.error": "There is no saved game to resume, start a new game!",
-
-  "wcontroller.load.error.title": "No saved game",
-
-  "wcontroller.load.notpartof": "You are not a part of this game",
-
-  "wcontroller.load.wait": "Wait until this game has fully downloaded before opening it.",
-
-  "wcontroller.load.wait.title": "Still loading...",
-
-  "wcontroller.load.update": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
-
-  "wcontroller.load.update.title": "Update Required",
-
-  "wcontroller.removingplayer": "Removing Player",
-
-  "wcontroller.not.your.turn": "Sorry, it's not your turn yet!",
-
-
-
-  "technology.intro": "This tech will enable the following:",
-
-  "technology.build": "{0} makes it possible to build {1}",
-
-  "technology.movement": "Movement",
-
-  "technology.movement.info": "enables movement in {0}",
-
-  "technology.defence": "Defence Bonus",
-
-  "technology.defence.info": "gives your unit extra strength when defending in {0}",
-
-  "technology.task": "{0} activates the {1} task",
-
-  "technology.ability": "ability",
-
-  "technology.ability.info": "{1} gives you the ability to {1}",
-
-  "technology.names.basic": "basic",
-
-  "technology.names.riding": "Riding",
-
-  "technology.names.freespirit": "Free Spirit",
-
-  "technology.names.chivalry": "Chivalry",
-
-  "technology.names.roads": "Roads",
-
-  "technology.names.trade": "Trade",
-
-  "technology.names.organization": "Organization",
-
-  "technology.names.shields": "Shields",
-
-  "technology.names.farming": "Farming",
-
-  "technology.names.construction": "Construction",
-
-  "technology.names.fishing": "Fishing",
-
-  "technology.names.whaling": "Whaling",
-
-  "technology.names.aquatism": "Aquatism",
-
-  "technology.names.sailing": "Sailing",
-
-  "technology.names.navigation": "Navigation",
-
-  "technology.names.hunting": "Hunting",
-
-  "technology.names.forestry": "Forestry",
-
-  "technology.names.mathematics": "Mathematics",
-
-  "technology.names.archery": "Archery",
-
-  "technology.names.spiritualism": "Spiritualism",
-
-  "technology.names.climbing": "Climbing",
-
-  "technology.names.meditation": "Meditation",
-
-  "technology.names.philosophy": "Philosophy",
-
-  "technology.names.mining": "Mining",
-
+  "wcontroller.examine.tech": "Encontraste algunos pergaminos antiguos que contienen el secreto de {0}",
+  "wcontroller.examine.tech.title": "Pergaminos de Sabiduría",
+  "wcontroller.examine.stars": "¡Las ruinas antiguas están llenas de recursos valiosos!",
+  "wcontroller.examine.stars.title": "Recursos",
+  "wcontroller.examine.population": "¡Te encuentras con una tribu nómada que se instala en tu capital!",
+  "wcontroller.examine.population.title": "Población",
+  "wcontroller.move.unto.unit": "NO PUEDE MUDARSE A OTRA UNIDAD",
+  "wcontroller.building.upgrade": "¡Tu {0} actualizado a {1}!",
+  "wcontroller.building.upgrade.reward": "{0} actualizado al nivel {1} ​​y su producción ha aumentado +1. También puedes elegir una recompensa adicional:",
+  "wcontroller.reward.workshop": "taller",
+  "wcontroller.reward.citywall": "muro de la ciudad",
+  "wcontroller.reward.populationgrowth": "crecimiento de la población",
+  "wcontroller.reward.park": "parque",
+  "wcontroller.reward.explorer": "explorador",
+  "wcontroller.reward.resources": "recursos",
+  "wcontroller.reward.bordergrowth": "crecimiento fronterizo",
+  "wcontroller.reward.superunit": "superunidad",
+  "wcontroller.unit.promotion": "¡Tu unidad ha obtenido el estado de veterano! Salud aumentada",
+  "wcontroller.unit.promotion.title": "¡Unidad promovida!",
+  "wcontroller.meet.tribe.leader": "Su líder",
+  "wcontroller.meet.tribe.bigger.hostile": "se ríe de tu insignificante excusa de una tribu",
+  "wcontroller.meet.tribe.bigger.friendly": "te saluda amistosamente pero no presta atención a tu pequeño reino",
+  "wcontroller.meet.tribe.smaller.hostile": "parece un poco hostil y te saluda sospechosamente",
+  "wcontroller.meet.tribe.smaller.friendly": "se inclina asombrado por tu poderosa civilización",
+  "wcontroller.meet.tribe.tech.hostile": "¡Te las arreglas para robar el secreto de {0}!",
+  "wcontroller.meet.tribe.tech.friendly": "¡Como un gesto de buena voluntad compartirán el secreto de {0}!",
+  "wcontroller.meet.tribe.resource.hostile": "¡Te las arreglas para robar algunas valiosas piezas de oro!",
+  "wcontroller.meet.tribe.resource.friendly": "¡Te presentan un regalo de valiosos recursos!",
+  "wcontroller.tribe.destroy": "¡Has destruido {0}!",
+  "wcontroller.tribe.destroy.title": "¡Sangre!",
+  "wcontroller.tribe.destroy2": "{0} ha sido destruido por {1}",
+  "wcontroller.tribe.destroy.all": "¡Has destruido todas las tribus enemigas y unificado toda la casilla bajo tu mando!",
+  "wcontroller.tribe.destroy.all.title": "¡Dominación!",
+  "wcontroller.city.disconnect": "{0} se desconectó de {1}",
+  "wcontroller.city.disconnect.title": "Ruta comercial perdida",
+  "wcontroller.turn.end": "Final del turno ...",
+  "wcontroller.turn.saving": "Guardando el juego en el servidor ...",
+  "wcontroller.turn.notification": "Es tu turno en {0} (turno {1})",
+  "wcontroller.turn.passed": "El juego pasó a {0}",
+  "wcontroller.turn.passed.title": "Completar",
+  "wcontroller.turn.error": "No se pudo acceder al servidor multijugador. Asegúrese de estar conectado a Internet e intente nuevamente",
+  "wcontroller.turn.error.title": "Error de red",
+  "wcontroller.turn.next": "Siguiente",
+  "wcontroller.load.error": "No hay un juego guardado para reanudar, ¡comience un nuevo juego!",
+  "wcontroller.load.error.title": "Sin juego guardado",
+  "wcontroller.load.notpartof": "No eres parte de este juego",
+  "wcontroller.load.wait": "Espere hasta que este juego se haya descargado completamente antes de abrirlo",
+  "wcontroller.load.wait.title": "Todavía cargando ...",
+  "wcontroller.load.update": "Este juego está utilizando una versión más reciente de Polytopia, debes dirigirte a {0} y actualizarlo antes de poder jugar",
+  "wcontroller.load.update.title": "Actualización requerida",
+  "wcontroller.removingplayer": "Eliminando Player",
+  "wcontroller.not.your.turn": "Lo siento, ¡aún no es tu turno!",
+
+  "technology.intro": "Esta tecnología permitirá lo siguiente:",
+  "technology.build": "{0} hace posible construir {1}",
+  "technology.movement": "Movimiento",
+  "technology.movement.info": "permite el movimiento en {0}",
+  "technology.defence": "Bonificación de defensa",
+  "technology.defence.info": "le da a tu unidad fuerza extra cuando defiendes en {0}",
+  "technology.task": "{0} activa la tarea {1}",
+  "technology.ability": "habilidad",
+  "technology.ability.info": "{1} te da la capacidad de {1}",
+  "technology.names.basic": "básico",
+  "technology.names.riding": "Equitación",
+  "technology.names.freespirit": "Espíritu libre",
+  "technology.names.chivalry": "Caballería",
+  "technology.names.roads": "Carreteras",
+  "technology.names.trade": "Comercio",
+  "technology.names.organization": "Organización",
+  "technology.names.shields": "Escudos",
+  "technology.names.farming": "Agricultura",
+  "technology.names.construction": "Construcción",
+  "technology.names.fishing": "Pesca",
+  "technology.names.whaling": "Ballenas",
+  "technology.names.aquatism": "Acuatismo",
+  "technology.names.sailing": "Navegación",
+  "technology.names.navigation": "Navegación",
+  "technology.names.hunting": "Caza",
+  "technology.names.forestry": "Silvicultura",
+  "technology.names.mathematics": "Matemáticas",
+  "technology.names.archery": "Tiro con arco",
+  "technology.names.spiritualism": "Espiritualismo",
+  "technology.names.climbing": "Escalada",
+  "technology.names.meditation": "Meditación",
+  "technology.names.philosophy": "Filosofía",
+  "technology.names.mining": "Minería",
   "technology.names.smithery": "Smithery",
+  "technology.names.freediving": "Buceo libre",
+  "technology.names.spearing": "Lancero",
+  "technology.names.forestmagic": "Magia del bosque",
+  "technology.names.watermagic": "Magia del agua",
+  "technology.names.frostwork": "Carpinteria",
+  "technology.names.polarwarfare": "Guerra polar",
+  "technology.names.polarism": "Polarismo",
 
-  "technology.names.freediving": "Free Diving",
+  "techview.info": "Los costos tecnológicos aumentan para cada ciudad de tu imperio",
+  "techview.info.literacy": "¡La alfabetización reduce el precio de todas las tecnologías en un 20%!",
+  "techview.locked": "(bloqueado)",
+  "techview.locked.info": "Debe investigar {0} antes de poder aprender {1}",
+  "techview.completed": "(completado)",
+  "techview.completed.info": "Ya has investigado esta tecnología",
+  "techview.expensive.info": "No tiene suficientes estrellas para comprar esto. Toque 'próximo turno' para obtener más estrellas",
+  "techview.research": "INVESTIGACIÓN",
 
-  "technology.names.spearing": "Spearing",
-
-  "technology.names.forestmagic": "Forest Magic",
-
-  "technology.names.watermagic": "Water Magic",
-
-  "technology.names.frostwork": "Frostwork",
-
-  "technology.names.polarwarfare": "Polar Warfare",
-
-  "technology.names.polarism": "Polarism",
-
-
-
-  "techview.info": "Tech costs increase for each city in your empire.",
-
-  "techview.info.literacy": "Literacy reduce the price of all technologies by 20%!",
-
-  "techview.locked": "(locked)",
-
-  "techview.locked.info": "You must research {0} before you can learn {1}.",
-
-  "techview.completed": "(completed)",
-
-  "techview.completed.info": "You have already researched this technology.",
-
-  "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-
-  "techview.research": "RESEARCH",
-
-
-
-  "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-
-  "action.info.recover": "Recover",
-
-  "action.info.healothers": "Heal Others",
-
-  "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
-
-  "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",
-
-  "action.info.capture": "capture",
-
-  "action.info.capture2": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-
-  "action.info.destroy": "destroy",
-
+  "action.info.attack": "ataca con esta unidad. Selecciona la unidad y toca cualquiera de los objetivos ROJOS si quieres atacar",
+  "action.info.recover": "Recuperar",
+  "action.info.healothers": "Sanar a otros",
+  "action.info.train": "entrena una unidad en esta ciudad. Las unidades se pueden usar para explorar el mundo y atacar a los enemigos y defender tus ciudades",
+  "action.info.move": "mueve esta unidad. Selecciona la unidad y toca cualquiera de los objetivos AZULES",
+  "action.info.capture": "captura",
+  "action.info.capture2": "captura esta ciudad. Las ciudades generan estrellas cada turno que puedes usar para desarrollar tu imperio",
+  "action.info.destroy": "destruir",
   "action.info.disband": "Disband {0}",
-
-  "action.info.remove": "Remove",
-
-  "action.info.cityreward": "City Reward",
-
-  "action.info.reward": "Reward",
-
-  "action.info.trip": "Trip",
-
+  "action.info.remove": "Eliminar",
+  "action.info.cityreward": "Recompensa de ciudad",
+  "action.info.reward": "Recompensa",
+  "action.info.trip": "Viaje",
   "action.info.meet": "Meet",
+  "action.info.promote": "Promocionar",
+  "action.info.examine": "Examinar",
+  "action.info.endturn": "finalice este turno para obtener más recursos y movimientos de unidades. Presione el botón 'Siguiente turno'",
+  "action.info.stay": "Quedarse",
+  "action.info.healarea": ​​"healArea",
+  "action.info.freezearea": ​​"Área de congelación",
+  "action.info.breakice": "Romper hielo",
+  "action.info.do": "do {0} aquí",
+  "action.info.build": "construye un {0} aquí",
+  "action.info.reward.population": "Eso aumentará la población de la ciudad más cercana. Cuando la población crezca lo suficiente, la ciudad subirá de nivel y producirá más recursos",
+  "action.info.reward.resources": "Eso le dará una recompensa instantánea de {0} recursos",
+  "action.info.research": "research {0}",
 
-  "action.info.promote": "Promote",
+  "actionbtn.upgrade": "Actualizar a {0}",
+  "actionbtn.remove.building": "Edificio",
+  "actionbtn.remove.roads": "Carreteras",
 
-  "action.info.examine": "Examine",
+  "stringtools.typelist.and": "y",
 
-  "action.info.endturn": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
-
-  "action.info.stay": "Stay",
-
-  "action.info.healarea": "healArea",
-
-  "action.info.freezearea": "Freeze Area",
-
-  "action.info.breakice": "Break Ice",
-
-  "action.info.do": "do {0} here",
-
-  "action.info.build": "build a {0} here",
-
-  "action.info.reward.population": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
-
-  "action.info.reward.resources": "That will give you an instant reward of {0} resources",
-
-  "action.info.research": "research {0}.",
-
-
-
-  "actionbtn.upgrade": "Upgrade to {0}",
-
-  "actionbtn.remove.building": "Building",
-
-  "actionbtn.remove.roads": "Roads",
-
-
-
-  "stringtools.typelist.and": "and",
-
-
-
-  "topbar.score": "Score",
-
+  "topbar.score": "Puntuación",
   "topbar.turn": "Turn",
+  "topbar.stars": "Estrellas (+ {0})",
 
-  "topbar.stars": "Stars (+{0})",
+  "bottommenu.gamestats": "Estadísticas del juego",
+  "bottommenu.menu": "Menú",
+  "bottommenu.nextturn": "Siguiente turno",
+  "bottommenu.techtree": "Árbol tecnológico",
 
-
-
-  "bottommenu.gamestats": "Game Stats",
-
-  "bottommenu.menu": "Menu",
-
-  "bottommenu.nextturn": "Next Turn",
-
-  "bottommenu.techtree": "Tech Tree",
-
-
-
-  "endscreen.done": "DONE",
-
-  "endscreen.ruledby": "Ruled by {0}",
-
-  "endscreen.army&territory": "Army & Territory",
-
-  "endscreen.monuments&temples": "Monuments & temples",
-
-  "endscreen.cities": "Cities",
-
-  "endscreen.science": "Science",
-
-  "endscreen.units": "{0} units, {1} tiles empire",
-
-  "endscreen.culture": "{0} monuments, {1} temples",
-
-  "endscreen.citiescount": "{0}Â cities",
-
-  "endscreen.techscore": "{0}/{1} technologies researched",
-
-  "endscreen.bonus": "Difficulty Bonus",
-
-  "endscreen.finalscore": "FINAL SCORE",
-
-  "endscreen.speedskills": "Speed skills",
-
-  "endscreen.domination.win": "{0}/{1} turns",
-
-  "endscreen.domination.loss": "{0} turns",
-
-  "endscreen.battle": "Battle skills",
-
-  "endscreen.battle.info": "{0} units lost",
-
-  "endscreen.destroyed": "Tribes destroyed",
-
-  "endscreen.destroyed.info": "{0}/{1}",
-
-  "endscreen.rating": "Difficulty rating",
-
-  "endscreen.finalrating": "FINAL RATING",
-
-  "endscreen.nextstar.percent": "{0}% needed for next star",
-
-  "endscreen.nextstar": "{0} needed for next star",
-
-  "endscreen.topresult": "New top result!",
-
-  "endscreen.topresult.title": "Great!",
-
-  "endscreen.personal": "New personal all time high!",
-
-  "endscreen.personal.title": "Amazing!",
-
-  "endscreen.showhiscore": "SHOW HISCORE",
-
+  "endscreen.done": "HECHO",
+  "endscreen.ruledby": "Gobernado por {0}",
+  "endscreen.army & territorio": "Ejército y Territorio",
+  "endscreen.monuments & temples": "Monumentos y templos",
+  "endscreen.cities": "Ciudades",
+  "endscreen.science": "Ciencia",
+  "endscreen.units": "{0} unidades, {1} imperio de fichas",
+  "endscreen.culture": "{0} monumentos, {1} templos",
+  "endscreen.citiescount": "{0} Â ciudades",
+  "endscreen.techscore": "{0} / {1} tecnologías investigadas",
+  "endscreen.bonus": "Bonificación de dificultad",
+  "endscreen.finalscore": "PUNTUACIÓN FINAL",
+  "endscreen.speedskills": "Habilidades de velocidad",
+  "endscreen.domination.win": "{0} / {1} vueltas",
+  "endscreen.domination.loss": "{0} vueltas",
+  "endscreen.battle": "Habilidades de batalla",
+  "endscreen.battle.info": "{0} unidades perdidas",
+  "endscreen.destroyed": "Tribus destruidas",
+  "endscreen.destroyed.info": "{0} / {1}",
+  "endscreen.rating": "Calificación de dificultad",
+  "endscreen.finalrating": "CLASIFICACIÓN FINAL",
+  "endscreen.nextstar.percent": "{0}% necesario para la próxima estrella",
+  "endscreen.nextstar": "{0} necesario para la próxima estrella",
+  "endscreen.topresult": "¡Nuevo resultado superior!",
+  "endscreen.topresult.title": "¡Genial!",
+  "endscreen.personal": "¡Nuevo personal de todos los tiempos!",
+  "endscreen.personal.title": "¡Increíble!",
+  "endscreen.showhiscore": "MOSTRAR HISCORE",
   "endscreen.winner": "{0} win!",
+  "endscreen.victory": "VICTORIA",
+  "endscreen.gameover": "JUEGO OVER",
 
-  "endscreen.victory": "VICTORY",
-
-  "endscreen.gameover": "GAME OVER",
-
-
-
-  "highscore.title": "HIGH SCORE",
-
-  "highscore.today": "Today",
-
-  "highscore.thisweek": "This Week",
-
-  "highscore.alltime": "All Time",
-
-  "highscore.alltribes": "All Tribes",
-
+  "highscore.title": "ALTA PUNTUACIÓN",
+  "highscore.today": "Hoy",
+  "highscore.thisweek": "Esta semana",
+  "highscore.alltime": "Todo el tiempo",
+  "highscore.alltribes": "Todas las tribus",
   "highscore.hiscore": "hiscore",
+  "highscore.loading": "Cargando ..",
+  "highscore.notavailable": "Puntuación alta no disponible",
 
-  "highscore.loading": "Loading..",
+  "multiplayer.passplay": "Pase y juegue",
+  "multiplayer.passplay.info": "Desafía a tus amigos en una partida multijugador en el mismo dispositivo. Simplemente pásalo al siguiente jugador cuando termine tu turno",
+  "multiplayer.activegames": "Juegos activos",
+  "multiplayer.finishedgames": "Juegos terminados",
+  "multiplayer.creategame": "Crear juego",
+  "multiplayer.clipboard": "Gamedata agregado al portapapeles",
+  "multiplayer.clipboard.title": "¡Voilí!",
 
-  "highscore.notavailable": "High Score not available.",
+  "gamestats.gamemode": "Modo de juego: {0}",
+  "gamestats.bonus": "Bonificación de dificultad: {0}",
+  "gamestats.speed": "Habilidades de velocidad",
+  "gamestats.speed.info": "{0} / {1} turnos",
+  "gamestats.battle": "Habilidades de batalla",
+  "gamestats.battle.info": "{0} ganado, {1} perdido",
+  "gamestatus.tribes": "Tribus destruidas",
+  "gamestatus.difficulty": "Grado de dificultad",
+  "gamestatus.capitals": "Capitales propiedad",
+  "gamestatus.scores": "Partituras",
+  "gamestatus.ruled": "Gobernado por {0}",
+  "gamestatus.ruled.you": "Gobernado por ti",
+  "gamestatus.unknown.tribe": "Tribu desconocida",
+  "gamestatus.unknown.ruler": "Regla desconocida",
+  "gamestatus.score": "puntuación: {0} puntos",
+  "gamestatus.city": "{0} ciudad",
+  "gamestatus.cities": "{0} ciudades",
+  "gamestatus.destroyed": "destruido",
+  "gamestatus.tasks": "Tareas {0} / {1}",
+  "gamestatus.tasks.complete": "¡Completo!",
 
-
-
-  "multiplayer.passplay": "Pass & Play",
-
-  "multiplayer.passplay.info": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
-
-  "multiplayer.activegames": "Active Games",
-
-  "multiplayer.finishedgames": "Finished Games",
-
-  "multiplayer.creategame": "Create game",
-
-  "multiplayer.clipboard": "Gamedata added to clipboard",
-
-  "multiplayer.clipboard.title": "VoilÃ !",
-
-
-
-  "gamestats.gamemode": "Game mode: {0}",
-
-  "gamestats.bonus": "Difficulty bonus: {0}",
-
-  "gamestats.speed": "Speed skills",
-
-  "gamestats.speed.info": "{0}/{1} turns",
-
-  "gamestats.battle": "Battle skills",
-
-  "gamestats.battle.info": "{0} won, {1} lost",
-
-  "gamestatus.tribes": "Tribes destroyed",
-
-  "gamestatus.difficulty": "Difficulty rating",
-
-  "gamestatus.capitals": "Capitals Owned",
-
-  "gamestatus.scores": "Scores",
-
-  "gamestatus.ruled": "Ruled by {0}",
-
-  "gamestatus.ruled.you": "Ruled by you",
-
-  "gamestatus.unknown.tribe": "Unknown tribe",
-
-  "gamestatus.unknown.ruler": "Unknown ruler",
-
-  "gamestatus.score": "score: {0} points",
-
-  "gamestatus.city": "{0} city",
-
-  "gamestatus.cities": "{0} cities",
-
-  "gamestatus.destroyed": "destroyed",
-
-  "gamestatus.tasks": "Tasks {0}/{1}",
-
-  "gamestatus.tasks.complete": "Complete!",
-
-
-
-  "settings.title": "SETTINGS",
-
-  "settings.volume": "Audio volume {0}",
-
-  "settings.soundeffects": "Sound Effects",
-
-  "settings.ambience": "Ambience",
-
+  "settings.title": "AJUSTES",
+  "settings.volume": "Volumen de audio {0}",
+  "settings.soundeffects": "Efectos de sonido",
+  "settings.ambience": "Ambiente",
   "settings.tribemusic": "Tribe Music",
-
-  "settings.suggestions": "Suggestions",
-
-  "settings.info": "Info on Build",
-
-  "settings.confirm": "Confirm turn",
-
-  "settings.saveexit": "EXIT TO MENU",
-
+  "settings.suggestions": "Sugerencias",
+  "settings.info": "Información sobre la compilación",
+  "settings.confirm": "Confirmar giro",
+  "settings.saveexit": "SALIR AL MENÚ",
   "settings.on": "ON",
-
   "settings.off": "OFF",
-
-  "settings.language": "Language",
-
-  "settings.restartlanguage": "Please restart Polytopia to fully switch language",
-
-  "settings.language.load.title":"Custom language (BETA)",
-
-  "settings.language.load.info":"Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
-
-  "settings.language.load.input":"Language file url:",
-
-  "settings.language.load.button":"LOAD",
-
-  "throne.title": "THRONE ROOM",
-
-  "throne.reset": "reset scores",
-
-  "throne.playerinfo": "Player Info",
-
-  "throne.playerid": "Player ID",
-
-  "throne.clipboard": "Player ID added to clipboard",
-
-  "throne.clipboard.title": "VoilÃ !",
-
+  "settings.language": "Idioma",
+  "settings.restartlanguage": "Reinicie Polytopia para cambiar completamente el idioma",
+  "settings.language.load.title": "Idioma personalizado (BETA)",
+  "settings.language.load.info": "Cargue un archivo de idioma de Polytopia desde un servidor remoto usando https. Esta es una característica experimental, no para los débiles de corazón",
+  "settings.language.load.input": "URL del archivo de idioma:",
+  "settings.language.load.button": "LOAD",
+  "throne.title": "SALA DEL TRONO",
+  "throne.reset": "restablecer puntuaciones",
+  "throne.playerinfo": "Información del jugador",
+  "throne.playerid": "ID del jugador",
+  "throne.clipboard": "ID del jugador agregado al portapapeles",
+  "throne.clipboard.title": "¡Voilí!",
   "throne.alias": "Alias",
+  "throne.played": "Juegos jugados",
+  "throne.topscore": "Puntuación más alta",
+  "throne.toprating": "Calificación superior",
+  "throne.resetwarning": "¿Está seguro de que desea restablecer todos sus puntajes y calificaciones guardados? Esto no se puede deshacer",
+  "throne.resetwarning.title": "Restablecer puntajes",
+  "throne.reset.complete": "Las puntuaciones ahora se restablecen",
+  "throne.google.achievements": "LOGROS",
+  "throne.google.signedin": "Has iniciado sesión con Google Play",
+  "throne.google.out": "CERRAR SESIÓN",
+  "throne.google.info": "(!) Debe iniciar sesión con Google Play para guardar los datos del juego y las puntuaciones más altas",
+  "throne.google.in": "INICIAR SESIÓN",
 
-  "throne.played": "Games Played",
+  "consent.approval.title": "¡Bienvenido a Polytopia!",
+  "consent.approval.info": "Para mejorar Polytopia con estadísticas de uso y almacenar sus puntajes y configuraciones altas, necesitamos su aprobación para acceder a algunos datos personales. \nPuede leer más sobre los datos que recopilamos en nuestro <u> < a href = '{0}'> política de privacidad </a> </u>. \n (Puede revocar su aprobación en cualquier momento en la 'Sala del Trono') ",
+  "consent.approve": "APROBAR",
+  "consent.deny": "DENY",
+  "consent.enabled": "Datos personales habilitados",
+  "consent.enabled.info": "Actualmente permite que Polytopia acceda a algunos datos personales para mejorar el servicio y almacenar sus puntajes altos, etc. Para obtener más información, lea nuestra <u> <a href='{0}'> política de privacidad < / a> </u>. ",
+  "consent.disabled": "Datos personales deshabilitados",
+  "consent.disabled.info": "Para guardar datos personales como puntajes altos y estadísticas de uso necesitamos su aprobación. Para obtener más información, lea nuestra <u> <a href='{0}'> política de privacidad </a> < / u>. ",
+  "consent.revoke": "revocar consentimiento",
 
-  "throne.topscore": "Top Score",
-
-  "throne.toprating": "Top Rating",
-
-  "throne.resetwarning": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
-
-  "throne.resetwarning.title": "Reset Scores",
-
-  "throne.reset.complete": "Scores are now reset",
-
-  "throne.google.achievements": "ACHIEVEMENTS",
-
-  "throne.google.signedin": "You are signed in using Google Play",
-
-  "throne.google.out": "SIGN OUT",
-
-  "throne.google.info": "(!)You need to sign in with Google Play to save your game data and high scores.",
-
-  "throne.google.in": "SIGN IN",
-
-
-
-  "consent.approval.title":"Welcome to Polytopia!",
-
-  "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
-
-  "consent.approve":"APPROVE",
-
-  "consent.deny":"DENY",
-
-  "consent.enabled":"Personal Data Enabled",
-
-  "consent.enabled.info":"You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-
-  "consent.disabled":"Personal Data Disabled",
-
-  "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-
-  "consent.revoke":"revoke consent",
-
-
-
-  "onlineview.title": "MULTIPLAYER",
-
-  "onlineview.loadingservice": "Loading Service",
-
-  "onlineview.yourturn": "Your Turn",
-
-  "onlineview.theirturn": "Their Turn",
-
-  "onlineview.reloading": "Reloading..",
-
-  "onlineview.reloading.release": "Release to reload...",
-
-  "onlineview.newgame": "New Game",
-
-  "onlineview.friends": "Friends",
-
-  "onlineview.profile": "Profile",
-
+  "onlineview.title": "MULTIJUGADOR",
+  "onlineview.loadingservice": "Servicio de carga",
+  "onlineview.yourturn": "Tu turno",
+  "onlineview.theirturn": "Su turno",
+  "onlineview.reloading": "Recargando ..",
+  "onlineview.reloading.release": "Liberar para recargar ...",
+  "onlineview.newgame": "Nuevo juego",
+  "onlineview.friends": "Amigos",
+  "onlineview.profile": "Perfil",
   "onlineview.passplay": "Pass & Play",
-
-  "onlineview.refresh": "Refresh",
-
-  "onlineview.profile.available": "Profile is only available when connected to the server.",
-
-  "onlineview.friendlist.available": "Friend List is only available when connected to the server.",
-
-  "onlineview.servicedisabled": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
-
-  "onlineview.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-
-  "onlineview.uptodate": "All games are up to date",
-
-  "onlineview.intro.fix": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
-
-  "onlineview.intro.update": "Online multiplayer is not available, please update Polytopia to the latest version",
-
-  "onlineview.gameinvitations": "Game Invitations",
-
-  "onlineview.nogames.intro": "Hi {0}!",
-
-  "onlineview.nogames.start": "Let's get some online games going with your friends. Tap 'New game' to start one.",
-
-  "onlineview.nogames.first": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
-
-  "onlineview.or": "or",
-
-  "onlineview.passplay.start": "Start a local Pass & Play game by tapping 'New Game'",
-
-  "onlineview.login.ios": "Log in to {0}",
-
-  "onlineview.login.ios.info": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
-
-  "onlineview.notifications": "Enable notifications",
-
-  "onlineview.notifications.info": "We use notifications to communicate the status of your ongoing multiplayer games.",
-
-  "onlineview.purchase": "Purchase one Tribe",
-
-  "onlineview.purchase.info": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
-
-  "onlineview.completed": "completed",
-
-  "onlineview.required": "required",
-
-  "onlineview.check": "check",
-
-  "onlineview.fixit": "FIX IT",
-
-  "onlineview.clipboard": "Game ID added to clipboard: {0}",
-
-  "onlineview.clipboard.title": "VoilÃ !",
-
-  "onlineview.game.join": "JOIN GAME",
-
-  "onlineview.game.start": "START GAME",
-
-  "onlineview.game.open": "OPEN",
-
-  "onlineview.game.size": "Map Size",
-
-  "onlineview.game.moreinfo": "More info",
-
-  "onlineview.game.gameinfo": "Game Info",
-
-  "onlineview.game.you": "You",
-
+  "onlineview.refresh": "Actualizar",
+  "onlineview.profile.available": "El perfil solo está disponible cuando está conectado al servidor",
+  "onlineview.friendlist.available": "La lista de amigos solo está disponible cuando está conectado al servidor",
+  "onlineview.servicedisabled": "El servidor multijugador está temporalmente deshabilitado. Inténtalo de nuevo más tarde. Asegúrate también de que estás utilizando la última versión de Battle of Polytopia",
+  "onlineview.loaderror": "No se pudo conectar con el servidor multijugador. Comprueba tu conexión a Internet e inténtalo de nuevo",
+  "onlineview.uptodate": "Todos los juegos están actualizados",
+  "onlineview.intro.fix": "Hola {0}! \n \n Para jugar en el modo multijugador en línea, hay algunas cosas que debes solucionar:",
+  "onlineview.intro.update": "El modo multijugador en línea no está disponible, actualice Polytopia a la última versión",
+  "onlineview.gameinvitations": "Invitaciones a juegos",
+  "onlineview.nogames.intro": "¡Hola {0}!",
+  "onlineview.nogames.start": "Comencemos algunos juegos en línea con tus amigos. Toca 'Nuevo juego' para comenzar uno",
+  "onlineview.nogames.first": "Lo primero que necesitas es conectarte con otros humanos que juegan Polytopia. Toca 'Friends' para agregarlos",
+  "onlineview.or": "o",
+  "onlineview.passplay.start": "Inicie un juego local Pass & Play tocando 'Nuevo juego'",
+  "onlineview.login.ios": "Inicie sesión en {0}",
+  "onlineview.login.ios.info": "El uso de {0} garantiza que tenga una ID de jugador única y persistente que mantendrá sus datos seguros en todos los dispositivos",
+  "onlineview.notifications": "Habilitar notificaciones",
+  "onlineview.notifications.info": "Usamos notificaciones para comunicar el estado de sus juegos multijugador en curso",
+  "onlineview.purchase": "Compra una tribu",
+  "onlineview.purchase.info": "Ejecutar un servicio multijugador en línea cuesta dinero real y dependemos únicamente del amable apoyo de jugadores como usted",
+  "onlineview.completed": "completado",
+  "onlineview.required": "requerido",
+  "onlineview.check": "verificar",
+  "onlineview.fixit": "ARREGLARLO",
+  "onlineview.clipboard": "ID del juego agregado al portapapeles: {0}",
+  "onlineview.clipboard.title": "¡Voilí!",
+  "onlineview.game.join": "ÚNETE AL JUEGO",
+  "onlineview.game.start": "INICIAR JUEGO",
+  "onlineview.game.open": "ABIERTO",
+  "onlineview.game.size": "Tamaño del mapa",
+  "onlineview.game.moreinfo": "Más información",
+  "onlineview.game.gameinfo": "Información del juego",
+  "onlineview.game.you": "Tú",
   "onlineview.game.resign": "RESIGN",
+  "onlineview.game.decline": "RECHAZAR",
+  "onlineview.game.delete": "BORRAR",
+  "onlineview.game.resign.title": "Renunciar",
+  "onlineview.game.resign.info": "¿Estás seguro de que quieres abandonar este juego de forma permanente?",
+  "onlineview.game.old.title": "Versión de archivo anterior",
+  "onlineview.game.old.info": "Este juego fue creado con una versión desactualizada del juego. Desafortunadamente no se puede cargar :( Mi sugerencia es que lo elimine y comience uno nuevo. Disculpe las molestias",
+  "onlineview.game.player.left": "{0} ha abandonado el juego {1} y ha sido reemplazado por un bot",
+  "onlineview.game.player.kicked": "Has sido eliminado del juego {0}",
+  "onlineview.game.player.invited": "Estás invitado a un nuevo juego, {0}",
 
-  "onlineview.game.decline": "DECLINE",
+  "firebaseservice.status.connecting": "Conectándose al servidor Polytopia ...",
+  "firebaseservice.status.loading": "Cargando datos del juego ...",
+  "firebaseservice.status.loading.count": "Cargando datos del juego, quedan {0}",
+  "firebaseservice.status.loading.player": "Cargando datos del jugador ...",
+  "firebaseservice.status.sync": "Sincronizar cronómetro ..",
+  "firebaseservice.status.sync.player": "Sincronizando los datos de tu reproductor ..",
+  "firebaseservice.status.checking": "Buscando cambios ..",
+  "firebaseservice.status.loading.messages": "Cargando mensajes ...",
+  "firebaseservice.important.title": "Información importante",
+  "firebaseservice.important.deleted": "{0} te ha eliminado del juego multijugador {1}",
+  "firebaseservice.error": "Hubo un error al guardar el juego. Inténtalo de nuevo",
+  "firebaseservice.invite": "Estás invitado a un nuevo juego, {0}",
+  "firebaseservice.removed": "Has sido eliminado del juego {0}",
 
-  "onlineview.game.delete": "DELETE",
-
-  "onlineview.game.resign.title": "Resign",
-
-  "onlineview.game.resign.info": "Are you sure you want to leave this game permanently?",
-
-  "onlineview.game.old.title": "Old file version",
-
-  "onlineview.game.old.info": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
-
-  "onlineview.game.player.left": "{0} has left the game {1} and has been replaced by a bot.",
-
-  "onlineview.game.player.kicked": "You have been removed from game {0}",
-
-  "onlineview.game.player.invited": "You are invited to a new game, {0}",
-
-
-
-  "firebaseservice.status.connecting": "Connecting to the Polytopia server...",
-
-  "firebaseservice.status.loading": "Loading game data...",
-
-  "firebaseservice.status.loading.count": "Loading game data, {0} left",
-
-  "firebaseservice.status.loading.player": "Loading player data...",
-
-  "firebaseservice.status.sync": "Sync chronometer..",
-
-  "firebaseservice.status.sync.player": "Syncing your player data..",
-
-  "firebaseservice.status.checking": "Checking for changes..",
-
-  "firebaseservice.status.loading.messages": "Loading messages...",
-
-  "firebaseservice.important.title": "Important information",
-
-  "firebaseservice.important.deleted": "{0} has deleted you from multiplayer game {1}",
-
-  "firebaseservice.error": "There was an error saving the game. Please try again.",
-
-  "firebaseservice.invite": "You are invited to a new game, {0}",
-
-  "firebaseservice.removed": "You have been removed from game {0}",
-
-
-
-  "friendlist.title": "FRIEND LIST",
-
-  "friendlist.new.caps": "NEW FRIEND",
-
-  "friendlist.new.title": "Add a new friend",
-
-  "friendlist.new.info": "Enter the player ID of your friend. (they can find it on this Friend page on their device)",
-
-  "friendlist.new.button": "ADD",
-
-  "friendlist.new.input": "Player ID:",
-
-  "friendlist.new.myself.title": "Me, myself & I",
-
-  "friendlist.new.myself.info": "Seems like you tried to add yourself as a friend. That might sound like a nice thing to do but it would add an existential layer to the game that we cannot handle at the moment. Please submit a player ID of someone else.",
-
-  "friendlist.new.empty.title": "Emptiness",
-
-  "friendlist.new.empty.info": "The player ID you entered was completely empty! You should not try to make friends with the void, it is a very lonely path.",
-
-  "friendlist.new.exists.title": "Duplicate Player",
-
-  "friendlist.new.exists.info": "You are already friends with {0}",
-
-  "friendlist.new.looking.title": "Loading Player",
-
-  "friendlist.new.looking.info": "Looking for player {0}",
-
-  "friendlist.new.added.title": "Player Added",
-
-  "friendlist.new.added.info": "Added player {0}",
-
-  "friendlist.new.error.title": "Error loading player",
-
-  "friendlist.new.error.info": "Could not find player with the ID {0}.",
-
-  "friendlist.new.error2.title": "Player not found",
-
-  "friendlist.new.error2.info": "Could not find any player with the ID {0}. Error: {1}",
-
-  "friendlist.loading": "Loading friends...",
-
-  "friendlist.error": "Error loading friends",
-
-  "friendlist.friends": "Friends",
-
-  "friendlist.friends.old": "Outdated friends",
-
-  "friendlist.local": "Local Players",
-
+  "friendlist.title": "LISTA DE AMIGOS",
+  "friendlist.new.caps": "NUEVO AMIGO",
+  "friendlist.new.title": "Agregar un nuevo amigo",
+  "friendlist.new.info": "Ingrese el ID de jugador de su amigo (pueden encontrarlo en esta página de amigo en su dispositivo)",
+  "friendlist.new.button": "AGREGAR",
+  "friendlist.new.input": "ID del jugador:",
+  "friendlist.new.myself.title": "Yo, yo y yo",
+  "friendlist.new.myself.info": "Parece que trataste de agregarte a ti mismo como amigo. Eso puede parecer algo agradable de hacer, pero agregaría una capa existencial al juego que no podemos manejar en este momento. Por favor enviar una identificación de jugador de otra persona ",
+  "friendlist.new.empty.title": "Vacío",
+  "friendlist.new.empty.info": "¡La ID de jugador que ingresaste estaba completamente vacía! No debes tratar de hacerte amigo del vacío, es un camino muy solitario",
+  "friendlist.new.exists.title": "Reproductor duplicado",
+  "friendlist.new.exists.info": "Ya eres amigo de {0}",
+  "friendlist.new.looking.title": "Cargando jugador",
+  "friendlist.new.looking.info": "Buscando jugador {0}",
+  "friendlist.new.added.title": "Jugador agregado",
+  "friendlist.new.added.info": "Jugador agregado {0}",
+  "friendlist.new.error.title": "Error al cargar el reproductor",
+  "friendlist.new.error.info": "No se pudo encontrar el jugador con el ID {0}",
+  "friendlist.new.error2.title": "Jugador no encontrado",
+  "friendlist.new.error2.info": "No se pudo encontrar ningún jugador con el ID {0}. Error: {1}",
+  "friendlist.loading": "Cargando amigos ...",
+  "friendlist.error": "Error al cargar amigos",
+  "friendlist.friends": "Amigos",
+  "friendlist.friends.old": "Amigos obsoletos",
+  "friendlist.local": "Jugadores locales",
   "friendlist.bots": "Bots",
-
   "friendlist.bot": "{0} Bot",
-
-  "friendlist.player": "Player {0}",
-
-  "friendlist.remove": "REMOVE",
-
+  "friendlist.player": "Jugador {0}",
+  "friendlist.remove": "ELIMINAR",
   "friendlist.reload": "RELOAD",
+  "friendlist.checking": "Comprobando el estado del amigo ..",
+  "friendlist.friend.update": "{0} necesita actualizarse a la última versión de Polytopia antes de poder invitarlos a nuevos juegos",
+  "friendlist.friend.updated": "{0} ahora está en el nuevo servidor",
+  "friendlist.friend.notupdated": "{0} todavía está en el servidor anterior",
+  "friendlist.removed.title": "Jugador eliminado",
+  "friendlist.removed.info": "Jugador eliminado {0}",
 
-  "friendlist.checking": "Checking friend status..",
+  "idconsole.playerid": "Su ID de jugador:",
+  "idconsole.share": "Envíe esta ID de jugador a cualquier persona contra la que quiera jugar. Tóquela para copiar",
+  "idconsole.clipboard": "ID del jugador {0} agregado al portapapeles",
+  "idconsole.clipboard.title": "¡Voilí!",
 
-  "friendlist.friend.update": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
-
-  "friendlist.friend.updated": "{0} is now on the new server",
-
-  "friendlist.friend.notupdated": "{0} is still on the old server",
-
-  "friendlist.removed.title": "Player Removed",
-
-  "friendlist.removed.info": "Removed player {0}",
-
-
-
-  "idconsole.playerid": "Your Player ID:",
-
-  "idconsole.share": "Send this Player ID to anyone you want to play against. Tap it to copy.",
-
-  "idconsole.clipboard": "Player ID {0} added to clipboard",
-
-  "idconsole.clipboard.title": "VoilÃ !",
-
-
-
-  "playerpickerview.title": "PICK PLAYERS",
-
-  "playerpickerview.name": "Game Name",
-
-  "playerpickerview.startgame": "START GAME",
-
-  "playerpickerview.addplayer": "ADD PLAYER",
-
-  "playerpickerview.size": "Map size: {0} tiles",
-
-  "playerpickerview.mode": "Game mode: {0}",
-
-  "playerpickerview.players": "Players ({0}/{1})",
-
-  "playerpickerview.you": "{0} (you)",
-
+  "playerpickerview.title": "Seleccionar Jugador",
+  "playerpickerview.name": "Nombre del juego",
+  "playerpickerview.startgame": "INICIAR JUEGO",
+  "playerpickerview.addplayer": "AGREGAR JUGADOR",
+  "playerpickerview.size": "Tamaño del mapa: {0} mosaicos",
+  "playerpickerview.mode": "Modo de juego: {0}",
+  "playerpickerview.players": "Jugadores ({0} / {1})",
+  "playerpickerview.you": "{0} (usted)",
   "playerpickerview.bot": "{0} ({1} bot)",
+  "playerpickerview.human": "Ningún jugador humano",
+  "playerpickerview.human.info": "Debe haber al menos un jugador humano para comenzar un juego",
 
-  "playerpickerview.human": "No human player",
-
-  "playerpickerview.human.info": "There needs to be at least one human player to start a game",
-
-
-
-  "gameitem.join": "Join this game or decline the invitation",
-
-  "gameitem.join.wait": "Waiting for {0} to pick tribe",
-
-  "gameitem.ready": "Ready to start!",
-
-  "gameitem.ready.wait": "{0} can start the game",
-
-  "gameitem.turn.your": "Your turn",
-
-  "gameitem.turn.other": "Waiting for {0}",
-
-  "gameitem.gameover": "This game is over, tap to see the end.",
-
-  "gameitem.pick": "{0}, pick your tribe",
-
-  "gameitem.start": "{0}, start the game",
-
-  "gameitem.turn": "{0}, take your turn",
-
-  "gameitem.ended": "This game is over.",
-
-  "gameitem.pending": "Pending. Open and save to server.",
-
+  "gameitem.join": "Únete a este juego o rechaza la invitación",
+  "gameitem.join.wait": "Esperando a que {0} elija una tribu",
+  "gameitem.ready": "¡Listo para comenzar!",
+  "gameitem.ready.wait": "{0} puede iniciar el juego",
+  "gameitem.turn.your": "Tu turno",
+  "gameitem.turn.other": "Esperando {0}",
+  "gameitem.gameover": "Este juego ha terminado, toca para ver el final",
+  "gameitem.pick": "{0}, elige tu tribu",
+  "gameitem.start": "{0}, inicia el juego",
+  "gameitem.turn": "{0}, toma tu turno",
+  "gameitem.ended": "Este juego ha terminado",
+  "gameitem.pending": "Pendiente. Abrir y guardar en el servidor",
   "gameitem.timeup": "Time Up!",
-
-  "gameitem.timeup.info": "Your time to make a move is up, do you want to resign?",
-
-  "gameitem.timelimit": "Time limit",
-
-  "gameitem.timelimit.info": "You have {0} to make your move, after that you will be removed from the game.",
-
+  "gameitem.timeup.info": "Ha llegado el momento de hacer un movimiento, ¿quiere renunciar?",
+  "gameitem.timelimit": "Límite de tiempo",
+  "gameitem.timelimit.info": "Tienes {0} para hacer tu movimiento, después de eso serás eliminado del juego",
   "gameitem.kick": "Duh!",
-
-  "gameitem.kick.info": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
-
+  "gameitem.kick.info": "¿Quieres expulsar {0} de este juego? Un bot tomará el control de la tribu",
   "gameitem.kick.action": "KICK",
-
-  "gameitem.slow": "Come on..",
-
-  "gameitem.slow.info": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
-
-  "gameitem.slow.action": "REMIND",
-
-  "gameitem.timeleft": "Cool runnings",
-
-  "gameitem.timeleft.info": "{0} still has {1} to make a move.",
-
+  "gameitem.slow": "Vamos ..",
+  "gameitem.slow.info": "{0} tiene {1} para hacer un movimiento. ¿Enviar un grosero recordatorio para que {0} se apure?",
+  "gameitem.slow.action": "RECORDATORIO",
+  "gameitem.timeleft": "Ejecuciones geniales",
+  "gameitem.timeleft.info": "{0} todavía tiene {1} para hacer un movimiento",
   "gameitem.reload": "RELOAD",
+  "gameitem.remind.max": "Eso es suficiente",
+  "gameitem.remind.max.info": "Recordatorio ya enviado a {0}",
+  "gameitem.remind.notification": "Estamos esperando que juegues en {0}. ¡¡Vamos !!",
+  "gameitem.remind.notify": "Listo",
+  "gameitem.remind.notify.info": "Recordatorio enviado a {0}",
 
-  "gameitem.remind.max": "That's enough",
-
-  "gameitem.remind.max.info": "Reminder already sent to {0}",
-
-  "gameitem.remind.notification": "We are waiting for you to play in {0}. Come on!!",
-
-  "gameitem.remind.notify": "Done",
-
-  "gameitem.remind.notify.info": "Reminder sent to {0}",
-
-
-
-  "mplayerstats.title": "PLAYER PROFILE",
-
-  "mplayerstats.clear": "clear data",
-
-  "mplayerstats.reload": "reload multiplayer data",
-
-  "mplayerstats.multiplayer.faq": "MULTIPLAYER FAQ",
-
+  "mplayerstats.title": "PERFIL DE JUGADOR",
+  "mplayerstats.clear": "borrar datos",
+  "mplayerstats.reload": "volver a cargar los datos del multijugador",
+  "mplayerstats.multiplayer.faq": "Preguntas frecuentes sobre jugadores múltiples",
   "mplayerstats.alias": "Alias",
+  "mplayerstats.friends": "nº de amigos",
+  "mplayerstats.games": "Juegos jugados",
+  "mplayerstats.server": "Versión del servidor",
+  "mplayerstats.lost": "¿Te sientes perdido? Comprueba el:",
 
-  "mplayerstats.friends": "nÂº of friends",
-
-  "mplayerstats.games": "Games Played",
-
-  "mplayerstats.server": "Server version",
-
-  "mplayerstats.lost": "Feeling lost? Check the:",
-
-
-
-  "credits.title": "ABOUT",
-
+  "credits.title": "ACERCA DE",
   "credits.subtitle": "Indie Delight",
-
-  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.",
-
-  "credits.learnmore1": "Want to know everything?",
-
-  "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
-
+  "Créditos.midjiwan": "La batalla de Polytopia está siendo creada constantemente por Midjiwan, un pequeño estudio de juegos independientes en Estocolmo, Suecia",
+  "creditos.learnmore1": "¿Quieres saberlo todo?",
+  "Crédits.learnmore2": "Consulta la extensa base de datos de Wikia creada por la comunidad de Polytopia:",
   "credits.wiki": "POLYTOPIA WIKI",
+  "Créditos.showsupport": "¡Muestre su apoyo!",
+  "credits.getmerch": "Obtén un merchandising oficial de Polytopian:",
+  "credits.visitshop": "VISITA LA TIENDA",
+  "credits.programming": "Programación y diseño",
+  "credits.sound": "Sonido y música",
+  "credits.tribe": "Diseño de la tribu",
+  "Crédits.debuginfo": "Información de depuración",
+  "credits.build": "Versión de compilación",
+  "Créditos.os": "SO",
+  "credits.screendpi": "DPI de pantalla",
+  "credits.screensize": "Tamaño de pantalla",
+  "credits.privacy": "Política de privacidad",
+  "credits.terms": "Términos de servicio",
 
-  "credits.showsupport": "Show your support!",
+  "date.day": "día",
+  "date.days": "días",
+  "date.hour": "hora",
+  "date.hours": "horas",
+  "date.minute": "minuto",
+  "date.minutes": "minutos",
+  "date.second": "segundo",
+  "date.seconds": "segundos",
 
-  "credits.getmerch": "Get some official Polytopian merch:",
+  "friendlist.friendrequests": "Solicitudes de amistad",
+  "friendlist.pendinginvitations": "Invitaciones pendientes",
+  "friendlist.rejectedinvitations": "Invitaciones rechazadas",
+  "friendlist.new.Search": "BÚSQUEDA",
+  "friendlist.new.accept": "ACEPTAR",
+  "friendlist.new.reject": "RECHAZAR",
+  "friendlist.new.Results": "Resultados:",
+  "friendlist.requestrecieved": "Solicitud de amistad recibida",
+  "friendlist.requestaccepted": "Solicitud de amistad aceptada",
 
-  "credits.visitshop": "VISIT THE SHOP",
+  "mplayerstats.appversion": "Versión de la aplicación:",
 
-  "credits.programming": "Programming & Design",
+  "gameitem.start.wait": "Esperando a que {0} comience el juego",
 
-  "credits.sound": "Sound & Music",
-
-  "credits.tribe": "Tribe Design",
-
-  "credits.debuginfo": "Debug info",
-
-  "credits.build": "Build version",
-
-  "credits.os": "OS",
-
-  "credits.screendpi": "Screen DPI",
-
-  "credits.screensize": "Screen size",
-
-  "credits.privacy": "Privacy Policy",
-
-  "credits.terms": "Terms of Service",
-
-
-
-  "date.day": "day",
-
-  "date.days": "days",
-
-  "date.hour": "hour",
-
-  "date.hours": "hours",
-
-  "date.minute": "minute",
-
-  "date.minutes": "minutes",
-
-  "date.second": "second",
-
-  "date.seconds": "seconds",
-
-
-
-  "friendlist.friendrequests": "Friend Requests",
-
-  "friendlist.pendinginvitations": "Pending Invitations",
-
-  "friendlist.rejectedinvitations": "Rejected Invitations",
-
-  "friendlist.new.Search": "SEARCH",
-
-  "friendlist.new.accept": "ACCEPT",
-
-  "friendlist.new.reject": "REJECT",
-
-  "friendlist.new.Results": "Results:",
-
-  "friendlist.requestrecieved": "Friend Request Received",
-
-  "friendlist.requestaccepted": "Friend Request Accepted",
-
-
-
-  "mplayerstats.appversion": "App version:",
-
-
-
-  "gameitem.start.wait": "Waiting for {0} to start the game",
-
-
-
-  "gamesettings.disableTribes": "Enable or Disable Tribes",
-
-
-
+ 
   "startmenu.quit": "QUIT",
-
   "buttons.quit": "Quit",
 
-
-
   "mplayerstats.reloading": "Reloading..",
-
   "mplayerstats.uptodate": "Everything is up to date",
-
   "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
 
-
-
   "friendlist.reloading": "Reloading..",
-
   "friendlist.uptodate": "Everything is up to date",
-
   "friendlist.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-
   "friendlist.cancelinvite.button": "CANCEL INVITE",
-
   "friendlist.acceptinvite.button": "ACCEPT INVITE",
 
-
-
   "friendlist.friendshipstate": "Friendship status: {0}",
-
   "friendlist.friendshipstate.none": "None.",
-
   "friendlist.friendshipstate.isyou": "This is you.",
-
   "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
-
   "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
-
   "friendlist.friendshipstate.receivedrequest": "Friend request received. Do you accept?",
-
   "friendlist.friendshipstate.rejected": "Friend request rejected."
-
 }
